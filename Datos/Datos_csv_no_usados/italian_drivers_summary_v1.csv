@@ -1,0 +1,421 @@
+Piloto,driverId,Año,Constructor,Puntos
+Villoresi,633,1950,Ferrari,0.0
+Taruffi,641,1950,Alfa Romeo,0.0
+Farina,642,1950,Alfa Romeo,30.0
+Ascari,647,1950,Ferrari,11.0
+Bonetto,697,1950,Maserati,2.0
+Bonetto,697,1950,Milano,0.0
+Comotti,740,1950,Maserati,0.0
+Rol,762,1950,Maserati,0.0
+Sanesi,763,1950,Alfa Romeo,0.0
+Fagioli,786,1950,Alfa Romeo,28.0
+Biondetti,791,1950,Ferrari,0.0
+Pagani,800,1950,Maserati,0.0
+Serafini,802,1950,Ferrari,3.0
+Villoresi,633,1951,Ferrari,18.0
+Taruffi,641,1951,Ferrari,10.0
+Farina,642,1951,Alfa Romeo,22.0
+Ascari,647,1951,Ferrari,28.0
+Bonetto,697,1951,Alfa Romeo,7.0
+Rol,762,1951,OSCA,0.0
+Sanesi,763,1951,Alfa Romeo,3.0
+Fagioli,786,1951,Alfa Romeo,4.0
+Villoresi,633,1952,Ferrari,8.0
+Taruffi,641,1952,Ferrari,22.0
+Farina,642,1952,Ferrari,27.0
+Ascari,647,1952,Ferrari,53.5
+Bonetto,697,1952,Maserati,2.0
+Carini,722,1952,Ferrari,0.0
+Comotti,740,1952,Ferrari,0.0
+Dusio,760,1952,Cisitalia,0.0
+Rol,762,1952,Maserati,0.0
+Musso,577,1953,Maserati,0.0
+Maglioli,620,1953,Ferrari,0.0
+Villoresi,633,1953,Ferrari,17.0
+Farina,642,1953,Ferrari,32.0
+Mantovani,644,1953,Maserati,0.0
+Ascari,647,1953,Ferrari,46.5
+Bonetto,697,1953,Maserati,6.5
+Carini,722,1953,Ferrari,0.0
+Musso,577,1954,Maserati,6.0
+Maglioli,620,1954,Ferrari,2.0
+Villoresi,633,1954,Lancia,0.0
+Villoresi,633,1954,Maserati,2.0
+Taruffi,641,1954,Ferrari,0.0
+Farina,642,1954,Ferrari,6.0
+Mantovani,644,1954,Maserati,4.0
+Ascari,647,1954,Ferrari,0.0
+Ascari,647,1954,Lancia,1.0
+Ascari,647,1954,Maserati,0.0
+de Riu,694,1954,Maserati,0.0
+Musso,577,1955,Maserati,6.0
+Piotti,586,1955,Arzani-Volpini,0.0
+Perdisa,607,1955,Maserati,2.0
+Castellotti,608,1955,Ferrari,6.0
+Castellotti,608,1955,Lancia,6.0
+Maglioli,620,1955,Ferrari,1.33
+Villoresi,633,1955,Ferrari,0.0
+Villoresi,633,1955,Lancia,2.0
+Taruffi,641,1955,Ferrari,0.0
+Taruffi,641,1955,Mercedes,9.0
+Farina,642,1955,Ferrari,10.33
+Mantovani,644,1955,Maserati,0.0
+Ascari,647,1955,Lancia,0.0
+Scarlatti,483,1956,Ferrari,0.0
+Musso,577,1956,Ferrari,4.0
+Gerini,583,1956,Maserati,1.5
+Piotti,586,1956,Maserati,0.0
+Perdisa,607,1956,Maserati,3.0
+Castellotti,608,1956,Ferrari,7.5
+Maglioli,620,1956,Maserati,0.0
+Villoresi,633,1956,Maserati,2.0
+Scotti,634,1956,Connaught,0.0
+Taruffi,641,1956,Vanwall,0.0
+Scarlatti,483,1957,Maserati,1.0
+Musso,577,1957,Ferrari,16.0
+Piotti,586,1957,Maserati,0.0
+Perdisa,607,1957,Ferrari,0.0
+Castellotti,608,1957,Ferrari,0.0
+Maglioli,620,1957,Porsche,0.0
+Scarlatti,483,1958,Maserati,0.0
+Cabianca,543,1958,Maserati,0.0
+Cabianca,543,1958,OSCA,0.0
+de Filippis,551,1958,Maserati,0.0
+Musso,577,1958,Ferrari,12.0
+Gerini,583,1958,Maserati,0.0
+Piotti,586,1958,OSCA,0.0
+Taramazzo,588,1958,Maserati,0.0
+Scarlatti,483,1959,Cooper-Climax,0.0
+Scarlatti,483,1959,Maserati,0.0
+Cabianca,543,1959,Maserati,0.0
+de Filippis,551,1959,Porsche,0.0
+Scarlatti,483,1960,Cooper-Castellotti,0.0
+Scarlatti,483,1960,Cooper-Maserati,0.0
+Scarlatti,483,1960,Maserati,0.0
+Munaron,500,1960,Cooper-Castellotti,0.0
+Munaron,500,1960,Maserati,0.0
+Cabianca,543,1960,Cooper-Castellotti,3.0
+Drogo,544,1960,Cooper-Climax,0.0
+Bandini,385,1961,Cooper-Maserati,0.0
+Baghetti,394,1961,Ferrari,9.0
+Bussinello,424,1961,De Tomaso-Alfa Romeo,0.0
+Vaccarella,425,1961,De Tomaso-Alfa Romeo,0.0
+Lippi,444,1961,De Tomaso-Osca,0.0
+Starrabba,447,1961,Lotus-Maserati,0.0
+Prinoth,467,1961,Lotus-Climax,0.0
+Scarlatti,483,1961,De Tomaso-Osca,0.0
+Natili,487,1961,Cooper-Maserati,0.0
+Pirocchi,489,1961,Cooper-Climax,0.0
+Pirocchi,489,1961,Cooper-Maserati,0.0
+Boffa,492,1961,Cooper-Climax,0.0
+Bandini,385,1962,Ferrari,4.0
+Baghetti,394,1962,Ferrari,5.0
+Bussinello,424,1962,De Tomaso-Alfa Romeo,0.0
+Vaccarella,425,1962,Lotus-Climax,0.0
+Vaccarella,425,1962,Porsche,0.0
+Lippi,444,1962,De Tomaso-Osca,0.0
+Abate,446,1962,Lotus-Climax,0.0
+Prinoth,467,1962,Lotus-Climax,0.0
+Scarfiotti,375,1963,Ferrari,1.0
+Bandini,385,1963,BRM,2.0
+Bandini,385,1963,Ferrari,4.0
+Baghetti,394,1963,ATS,0.0
+Brambilla,443,1963,Cooper-Maserati,0.0
+Lippi,444,1963,De Tomaso-Ferrari,0.0
+Abate,446,1963,Porsche,0.0
+Starrabba,447,1963,Lotus-Maserati,0.0
+Scarfiotti,375,1964,Ferrari,0.0
+Bandini,385,1964,Ferrari,23.0
+Baghetti,394,1964,BRM,0.0
+Russo,402,1964,Brabham-BRM,0.0
+Scarfiotti,375,1965,Ferrari,0.0
+Bandini,385,1965,Ferrari,13.0
+Baghetti,394,1965,Brabham-Climax,0.0
+Russo,402,1965,Lotus-Climax,0.0
+Bussinello,424,1965,BRM,0.0
+Vaccarella,425,1965,Ferrari,0.0
+Bassi,426,1965,BRM,0.0
+Scarfiotti,375,1966,Ferrari,9.0
+Bandini,385,1966,Ferrari,12.0
+Baghetti,394,1966,Ferrari,0.0
+Russo,402,1966,Lotus-Climax,0.0
+Scarfiotti,375,1967,Eagle-Weslake,0.0
+Scarfiotti,375,1967,Ferrari,1.0
+Bandini,385,1967,Ferrari,0.0
+Baghetti,394,1967,Lotus-Ford,0.0
+de Adamich,333,1968,Ferrari,0.0
+Scarfiotti,375,1968,Cooper-BRM,6.0
+Galli,330,1970,McLaren-Alfa Romeo,0.0
+de Adamich,333,1970,McLaren-Alfa Romeo,0.0
+Giunti,363,1970,Ferrari,3.0
+Galli,330,1971,March-Alfa Romeo,0.0
+Galli,330,1971,March-Ford,0.0
+de Adamich,333,1971,March-Alfa Romeo,0.0
+Merzario,232,1972,Ferrari,1.0
+Galli,330,1972,Ferrari,0.0
+Galli,330,1972,Tecno,0.0
+de Adamich,333,1972,Surtees,3.0
+Merzario,232,1973,Ferrari,6.0
+Galli,330,1973,Iso Marlboro,0.0
+de Adamich,333,1973,Brabham,3.0
+de Adamich,333,1973,Surtees,0.0
+Brambilla,230,1974,March,1.0
+Merzario,232,1974,Iso Marlboro,4.0
+Lombardi,275,1974,Brabham,0.0
+Facetti,325,1974,Brabham,0.0
+Brambilla,230,1975,March,6.5
+Merzario,232,1975,Fittipaldi,0.0
+Merzario,232,1975,Williams,0.0
+Zorzi,254,1975,Williams,0.0
+Lombardi,275,1975,March,0.5
+Lombardi,275,1975,Williams,0.0
+Brambilla,230,1976,March,1.0
+Merzario,232,1976,March,0.0
+Merzario,232,1976,Wolf,0.0
+Zorzi,254,1976,Williams,0.0
+Lombardi,275,1976,Brabham-Ford,0.0
+Lombardi,275,1976,March,0.0
+Pesenti-Rossi,284,1976,Tyrrell,0.0
+Patrese,119,1977,Shadow,1.0
+Giacomelli,152,1977,McLaren,0.0
+Francia,220,1977,Brabham,0.0
+Brambilla,230,1977,Surtees,6.0
+Merzario,232,1977,March,0.0
+Merzario,232,1977,Shadow,0.0
+Leoni,241,1977,Surtees,0.0
+Zorzi,254,1977,Shadow,1.0
+Patrese,119,1978,Arrows,11.0
+Giacomelli,152,1978,McLaren,0.0
+Gabbiani,213,1978,Surtees,0.0
+Brambilla,230,1978,Surtees,1.0
+Merzario,232,1978,Merzario,0.0
+Leoni,241,1978,Ensign,0.0
+Colombo,244,1978,ATS,0.0
+Colombo,244,1978,Merzario,0.0
+Franchi,248,1978,Surtees,0.0
+Patrese,119,1979,Arrows,2.0
+Giacomelli,152,1979,Alfa Romeo,0.0
+de Angelis,173,1979,Shadow,3.0
+Brambilla,230,1979,Alfa Romeo,0.0
+Merzario,232,1979,Merzario,0.0
+Brancatelli,234,1979,Kauhsen,0.0
+Brancatelli,234,1979,Merzario,0.0
+de Cesaris,110,1980,Alfa Romeo,0.0
+Patrese,119,1980,Arrows,7.0
+Giacomelli,152,1980,Alfa Romeo,4.0
+de Angelis,173,1980,Team Lotus,13.0
+Brambilla,230,1980,Alfa Romeo,0.0
+Alboreto,105,1981,Tyrrell,0.0
+de Cesaris,110,1981,McLaren,1.0
+Patrese,119,1981,Arrows,10.0
+Giacomelli,152,1981,Alfa Romeo,7.0
+Ghinzani,160,1981,Osella,0.0
+de Angelis,173,1981,Team Lotus,14.0
+Gabbiani,213,1981,Osella,0.0
+Stohr,216,1981,Arrows,0.0
+Francia,220,1981,Osella,0.0
+Alboreto,105,1982,Tyrrell,25.0
+de Cesaris,110,1982,Alfa Romeo,5.0
+Patrese,119,1982,Brabham,21.0
+Giacomelli,152,1982,Alfa Romeo,2.0
+Fabi,170,1982,Toleman,0.0
+de Angelis,173,1982,Team Lotus,23.0
+Baldi,184,1982,Arrows,2.0
+Paletti,204,1982,Osella,0.0
+Alboreto,105,1983,Tyrrell,10.0
+de Cesaris,110,1983,Alfa Romeo,15.0
+Patrese,119,1983,Brabham,13.0
+Giacomelli,152,1983,Toleman,1.0
+Ghinzani,160,1983,Osella,0.0
+de Angelis,173,1983,Team Lotus,2.0
+Baldi,184,1983,Alfa Romeo,3.0
+Fabi,190,1983,Osella,0.0
+Martini,94,1984,Toleman,0.0
+Alboreto,105,1984,Ferrari,30.5
+de Cesaris,110,1984,Ligier,3.0
+Patrese,119,1984,Alfa Romeo,8.0
+Ghinzani,160,1984,Osella,2.0
+Fabi,170,1984,Brabham,9.0
+de Angelis,173,1984,Team Lotus,34.0
+Baldi,184,1984,Spirit,0.0
+Fabi,190,1984,Brabham,0.0
+Martini,94,1985,Minardi,0.0
+Alboreto,105,1985,Ferrari,53.0
+de Cesaris,110,1985,Ligier,3.0
+Patrese,119,1985,Alfa Romeo,0.0
+Capelli,122,1985,Tyrrell,3.0
+Ghinzani,160,1985,Osella,0.0
+Ghinzani,160,1985,Toleman,0.0
+Fabi,170,1985,Toleman,0.0
+de Angelis,173,1985,Team Lotus,33.0
+Baldi,184,1985,Spirit,0.0
+Alboreto,105,1986,Ferrari,14.0
+de Cesaris,110,1986,Minardi,0.0
+Patrese,119,1986,Brabham,2.0
+Capelli,122,1986,AGS,0.0
+Caffi,133,1986,Osella,0.0
+Nannini,145,1986,Minardi,0.0
+Ghinzani,160,1986,Osella,0.0
+Fabi,170,1986,Benetton,2.0
+de Angelis,173,1986,Brabham,0.0
+Larini,78,1987,Coloni,0.0
+Tarquini,99,1987,Osella,0.0
+Alboreto,105,1987,Ferrari,17.0
+de Cesaris,110,1987,Brabham,4.0
+Patrese,119,1987,Brabham,6.0
+Patrese,119,1987,Williams,0.0
+Capelli,122,1987,March,1.0
+Modena,131,1987,Brabham,0.0
+Caffi,133,1987,Osella,0.0
+Nannini,145,1987,Minardi,0.0
+Ghinzani,160,1987,Ligier,0.0
+Fabi,170,1987,Benetton,12.0
+Larini,78,1988,Osella,0.0
+Martini,94,1988,Minardi,1.0
+Tarquini,99,1988,Coloni,0.0
+Alboreto,105,1988,Ferrari,24.0
+de Cesaris,110,1988,Rial,3.0
+Patrese,119,1988,Williams,8.0
+Capelli,122,1988,March,17.0
+Modena,131,1988,Euro Brun,0.0
+Caffi,133,1988,Dallara,0.0
+Nannini,145,1988,Benetton,12.0
+Ghinzani,160,1988,Zakspeed,0.0
+Larini,78,1989,Osella,0.0
+Martini,94,1989,Minardi,5.0
+Tarquini,99,1989,AGS,1.0
+Alboreto,105,1989,Larrousse,0.0
+Alboreto,105,1989,Tyrrell,6.0
+de Cesaris,110,1989,Dallara,4.0
+Patrese,119,1989,Williams,40.0
+Capelli,122,1989,March,0.0
+Modena,131,1989,Brabham,4.0
+Caffi,133,1989,Dallara,4.0
+Bertaggia,134,1989,Coloni,0.0
+Pirro,139,1989,Benetton,2.0
+Nannini,145,1989,Benetton,32.0
+Barilla,147,1989,Minardi,0.0
+Ghinzani,160,1989,Osella,0.0
+Larini,78,1990,Ligier,0.0
+Morbidelli,81,1990,Dallara,0.0
+Morbidelli,81,1990,Minardi,0.0
+Martini,94,1990,Minardi,0.0
+Tarquini,99,1990,AGS,0.0
+Alboreto,105,1990,Arrows,0.0
+de Cesaris,110,1990,Dallara,0.0
+Patrese,119,1990,Williams,23.0
+Capelli,122,1990,Leyton House,6.0
+Modena,131,1990,Brabham,2.0
+Caffi,133,1990,Arrows,2.0
+Pirro,139,1990,Dallara,0.0
+Nannini,145,1990,Benetton,21.0
+Barilla,147,1990,Minardi,0.0
+Langes,149,1990,Euro Brun,0.0
+Giacomelli,152,1990,Life,0.0
+Zanardi,70,1991,Jordan,0.0
+Larini,78,1991,Lambo,0.0
+Morbidelli,81,1991,Ferrari,0.5
+Morbidelli,81,1991,Minardi,0.0
+Martini,94,1991,Minardi,6.0
+Tarquini,99,1991,AGS,0.0
+Tarquini,99,1991,Fondmetal,0.0
+Alboreto,105,1991,Footwork,0.0
+de Cesaris,110,1991,Jordan,9.0
+Patrese,119,1991,Williams,53.0
+Barbazza,120,1991,AGS,0.0
+Capelli,122,1991,Leyton House,1.0
+Modena,131,1991,Tyrrell,10.0
+Caffi,133,1991,Footwork,0.0
+Pirro,139,1991,Dallara,1.0
+Zanardi,70,1992,Minardi,0.0
+Larini,78,1992,Ferrari,0.0
+Morbidelli,81,1992,Minardi,0.0
+Martini,94,1992,Dallara,2.0
+Tarquini,99,1992,Fondmetal,0.0
+Alboreto,105,1992,Footwork,6.0
+de Cesaris,110,1992,Tyrrell,8.0
+Patrese,119,1992,Williams,56.0
+Capelli,122,1992,Ferrari,3.0
+Naspetti,125,1992,March,0.0
+Modena,131,1992,Jordan,1.0
+Amati,132,1992,Brabham,0.0
+Badoer,69,1993,Lola,0.0
+Zanardi,70,1993,Team Lotus,1.0
+Martini,94,1993,Minardi,0.0
+Alboreto,105,1993,Lola,0.0
+de Cesaris,110,1993,Tyrrell,0.0
+Patrese,119,1993,Benetton,20.0
+Barbazza,120,1993,Minardi,2.0
+Capelli,122,1993,Jordan,0.0
+Apicella,124,1993,Jordan,0.0
+Naspetti,125,1993,Jordan,0.0
+Zanardi,70,1994,Team Lotus,0.0
+Larini,78,1994,Ferrari,6.0
+Morbidelli,81,1994,Footwork,3.0
+Montermini,85,1994,Simtek,0.0
+Schiattarella,93,1994,Simtek,0.0
+Martini,94,1994,Minardi,4.0
+Alboreto,105,1994,Minardi,1.0
+de Cesaris,110,1994,Jordan,3.0
+de Cesaris,110,1994,Sauber,1.0
+Badoer,69,1995,Minardi,0.0
+Morbidelli,81,1995,Footwork,5.0
+Montermini,85,1995,Pacific,0.0
+Lavaggi,86,1995,Pacific,0.0
+Schiattarella,93,1995,Simtek,0.0
+Martini,94,1995,Minardi,0.0
+Papis,97,1995,Footwork,0.0
+Tarquini,99,1995,Tyrrell,0.0
+Fisichella,21,1996,Minardi,0.0
+Badoer,69,1996,Forti,0.0
+Montermini,85,1996,Forti,0.0
+Lavaggi,86,1996,Minardi,0.0
+Trulli,15,1997,Minardi,0.0
+Trulli,15,1997,Prost,3.0
+Fisichella,21,1997,Jordan,20.0
+Larini,78,1997,Sauber,1.0
+Sospiri,80,1997,Lola,0.0
+Morbidelli,81,1997,Sauber,0.0
+Trulli,15,1998,Prost,1.0
+Fisichella,21,1998,Benetton,16.0
+Trulli,15,1999,Prost,7.0
+Fisichella,21,1999,Benetton,13.0
+Badoer,69,1999,Minardi,0.0
+Zanardi,70,1999,Williams,0.0
+Trulli,15,2000,Jordan,6.0
+Fisichella,21,2000,Benetton,18.0
+Trulli,15,2001,Jordan,12.0
+Fisichella,21,2001,Benetton,8.0
+Trulli,15,2002,Renault,9.0
+Fisichella,21,2002,Jordan,7.0
+Trulli,15,2003,Renault,33.0
+Fisichella,21,2003,Jordan,12.0
+Trulli,15,2004,Renault,46.0
+Trulli,15,2004,Toyota,0.0
+Fisichella,21,2004,Sauber,22.0
+Pantano,45,2004,Jordan,0.0
+Bruni,46,2004,Minardi,0.0
+Trulli,15,2005,Toyota,43.0
+Fisichella,21,2005,Renault,58.0
+Liuzzi,24,2005,Red Bull,1.0
+Trulli,15,2006,Toyota,15.0
+Fisichella,21,2006,Renault,72.0
+Liuzzi,24,2006,Toro Rosso,1.0
+Trulli,15,2007,Toyota,8.0
+Fisichella,21,2007,Renault,21.0
+Liuzzi,24,2007,Toro Rosso,3.0
+Trulli,15,2008,Toyota,31.0
+Fisichella,21,2008,Force India,0.0
+Trulli,15,2009,Toyota,32.5
+Fisichella,21,2009,Ferrari,0.0
+Fisichella,21,2009,Force India,8.0
+Liuzzi,24,2009,Force India,0.0
+Badoer,69,2009,Ferrari,0.0
+Trulli,15,2010,Lotus,0.0
+Liuzzi,24,2010,Force India,21.0
+Trulli,15,2011,Lotus,0.0
+Liuzzi,24,2011,HRT,0.0
+Giovinazzi,841,2017,Sauber,0.0
+Giovinazzi,841,2019,Alfa Romeo,14.0
+Giovinazzi,841,2020,Alfa Romeo,4.0
+Giovinazzi,841,2021,Alfa Romeo,3.0

@@ -1,0 +1,71 @@
+Piloto,driverId,Año,Constructor,Puntos
+Godia,580,1951,Maserati,0.0
+Jover,782,1951,Maserati,0.0
+Godia,580,1954,Maserati,0.0
+Godia,580,1956,Maserati,6.0
+de Portago,606,1956,Ferrari,3.0
+Godia,580,1957,Maserati,0.0
+de Portago,606,1957,Ferrari,1.0
+Godia,580,1958,Maserati,0.0
+Creus,504,1960,Maserati,0.0
+Soler-Roig,339,1970,Team Lotus,0.0
+Soler-Roig,339,1971,March-Ford,0.0
+Soler-Roig,339,1972,BRM,0.0
+de Villota,208,1976,Brabham-Ford,0.0
+Zapico,279,1976,Williams,0.0
+de Villota,208,1977,McLaren,0.0
+de Villota,208,1978,McLaren,0.0
+de Villota,208,1982,March,0.0
+Campos,167,1987,Minardi,0.0
+Pérez-Sala,159,1988,Minardi,0.0
+Campos,167,1988,Minardi,0.0
+Pérez-Sala,159,1989,Minardi,1.0
+de la Rosa,37,1999,Arrows,1.0
+Gené,48,1999,Minardi,1.0
+de la Rosa,37,2000,Arrows,2.0
+Gené,48,2000,Minardi,0.0
+Alonso,4,2001,Minardi,0.0
+de la Rosa,37,2001,Jaguar,3.0
+de la Rosa,37,2002,Jaguar,0.0
+Alonso,4,2003,Renault,55.0
+Gené,48,2003,Williams,4.0
+Alonso,4,2004,Renault,59.0
+Gené,48,2004,Williams,0.0
+Alonso,4,2005,Renault,133.0
+de la Rosa,37,2005,McLaren,4.0
+Alonso,4,2006,Renault,134.0
+de la Rosa,37,2006,McLaren,19.0
+Alonso,4,2007,McLaren,109.0
+Alonso,4,2008,Renault,61.0
+Alonso,4,2009,Renault,26.0
+Alguersuari,153,2009,Toro Rosso,0.0
+Alonso,4,2010,Ferrari,252.0
+de la Rosa,37,2010,Sauber,6.0
+Alguersuari,153,2010,Toro Rosso,5.0
+Alonso,4,2011,Ferrari,257.0
+de la Rosa,37,2011,Sauber,0.0
+Alguersuari,153,2011,Toro Rosso,26.0
+Alonso,4,2012,Ferrari,278.0
+de la Rosa,37,2012,HRT,0.0
+Alonso,4,2013,Ferrari,242.0
+Alonso,4,2014,Ferrari,161.0
+Alonso,4,2015,McLaren,11.0
+Sainz,832,2015,Toro Rosso,18.0
+Merhi,833,2015,Manor Marussia,0.0
+Alonso,4,2016,McLaren,54.0
+Sainz,832,2016,Toro Rosso,46.0
+Alonso,4,2017,McLaren,17.0
+Sainz,832,2017,Renault,6.0
+Sainz,832,2017,Toro Rosso,48.0
+Alonso,4,2018,McLaren,50.0
+Sainz,832,2018,Renault,53.0
+Sainz,832,2019,McLaren,96.0
+Sainz,832,2020,McLaren,105.0
+Alonso,4,2021,Alpine F1 Team,81.0
+Sainz,832,2021,Ferrari,163.5
+Alonso,4,2022,Alpine F1 Team,81.0
+Sainz,832,2022,Ferrari,228.0
+Alonso,4,2023,Aston Martin,198.0
+Sainz,832,2023,Ferrari,178.0
+Alonso,4,2024,Aston Martin,70.0
+Sainz,832,2024,Ferrari,262.0

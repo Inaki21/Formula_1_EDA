@@ -1,0 +1,14 @@
+driverId,forename,surname,num_carreras,total_puntos,num_victorias,years_participated,num_years,constructors
+4,Fernando,Alonso,404,2329.0,0,"[2008 2007 2006 2005 2004 2003 2001 2009 2010 2011 2012 2013 2014 2015
+ 2016 2017 2018 2021 2022 2023 2024]",21,"Renault, McLaren, Minardi, Ferrari, Alpine F1 Team, Aston Martin"
+832,Carlos,Sainz,208,1203.5,0,[2015 2016 2017 2018 2019 2020 2021 2022 2023 2024],10,"Toro Rosso, Renault, McLaren, Ferrari"
+37,Pedro,de la Rosa,107,35.0,0,[2006 2005 2002 2001 2000 1999 2010 2011 2012],9,"McLaren, Jaguar, Arrows, Sauber, HRT"
+153,Jaime,Alguersuari,46,31.0,0,[2009 2010 2011],3,Toro Rosso
+580,Paco,Godia,14,6.0,0,[1958 1957 1956 1954 1951],5,Maserati
+48,Marc,Gené,36,5.0,0,[2004 2003 2000 1999],4,"Williams, Minardi"
+606,Alfonso,de Portago,6,4.0,0,[1957 1956],2,Ferrari
+159,Luis,Pérez-Sala,32,1.0,0,[1989 1988],2,Minardi
+339,Alex,Soler-Roig,9,0.0,0,[1972 1971 1970],3,"BRM, March-Ford, Team Lotus"
+208,Emilio,de Villota,14,0.0,0,[1982 1978 1977 1976],4,"March, McLaren, Brabham-Ford"
+167,Adrián,Campos,21,0.0,0,[1988 1987],2,Minardi
+833,Roberto,Merhi,13,0.0,0,[2015],1,Manor Marussia

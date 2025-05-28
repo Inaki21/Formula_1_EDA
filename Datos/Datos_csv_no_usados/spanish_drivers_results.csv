@@ -1,0 +1,914 @@
+Piloto_ID,Piloto,Año,Carrera,Posición_Salida,Posición_Final,Puntos,Constructor
+4,Alonso,2008,Australian Grand Prix,11,4,5.0,Renault
+4,Alonso,2008,Malaysian Grand Prix,7,8,1.0,Renault
+4,Alonso,2008,Bahrain Grand Prix,10,10,0.0,Renault
+4,Alonso,2008,Spanish Grand Prix,2,15,0.0,Renault
+4,Alonso,2008,Turkish Grand Prix,7,6,3.0,Renault
+4,Alonso,2008,Monaco Grand Prix,7,10,0.0,Renault
+4,Alonso,2008,Canadian Grand Prix,4,16,0.0,Renault
+4,Alonso,2008,French Grand Prix,3,8,1.0,Renault
+4,Alonso,2008,British Grand Prix,6,6,3.0,Renault
+4,Alonso,2008,German Grand Prix,5,11,0.0,Renault
+4,Alonso,2008,Hungarian Grand Prix,7,4,5.0,Renault
+4,Alonso,2008,European Grand Prix,12,20,0.0,Renault
+4,Alonso,2008,Belgian Grand Prix,6,4,5.0,Renault
+4,Alonso,2008,Italian Grand Prix,8,4,5.0,Renault
+4,Alonso,2008,Singapore Grand Prix,15,1,10.0,Renault
+4,Alonso,2008,Japanese Grand Prix,4,1,10.0,Renault
+4,Alonso,2008,Chinese Grand Prix,4,4,5.0,Renault
+4,Alonso,2008,Brazilian Grand Prix,6,2,8.0,Renault
+4,Alonso,2007,Australian Grand Prix,2,2,8.0,McLaren
+4,Alonso,2007,Malaysian Grand Prix,2,1,10.0,McLaren
+4,Alonso,2007,Bahrain Grand Prix,4,5,4.0,McLaren
+4,Alonso,2007,Spanish Grand Prix,2,3,6.0,McLaren
+4,Alonso,2007,Monaco Grand Prix,1,1,10.0,McLaren
+4,Alonso,2007,Canadian Grand Prix,2,7,2.0,McLaren
+4,Alonso,2007,United States Grand Prix,2,2,8.0,McLaren
+4,Alonso,2007,French Grand Prix,10,7,2.0,McLaren
+4,Alonso,2007,British Grand Prix,3,2,8.0,McLaren
+4,Alonso,2007,European Grand Prix,2,1,10.0,McLaren
+4,Alonso,2007,Hungarian Grand Prix,6,4,5.0,McLaren
+4,Alonso,2007,Turkish Grand Prix,4,3,6.0,McLaren
+4,Alonso,2007,Italian Grand Prix,1,1,10.0,McLaren
+4,Alonso,2007,Belgian Grand Prix,3,3,6.0,McLaren
+4,Alonso,2007,Japanese Grand Prix,2,21,0.0,McLaren
+4,Alonso,2007,Chinese Grand Prix,4,2,8.0,McLaren
+4,Alonso,2007,Brazilian Grand Prix,4,3,6.0,McLaren
+4,Alonso,2006,Bahrain Grand Prix,4,1,10.0,Renault
+4,Alonso,2006,Malaysian Grand Prix,7,2,8.0,Renault
+4,Alonso,2006,Australian Grand Prix,3,1,10.0,Renault
+4,Alonso,2006,San Marino Grand Prix,5,2,8.0,Renault
+4,Alonso,2006,European Grand Prix,1,2,8.0,Renault
+4,Alonso,2006,Spanish Grand Prix,1,1,10.0,Renault
+4,Alonso,2006,Monaco Grand Prix,1,1,10.0,Renault
+4,Alonso,2006,British Grand Prix,1,1,10.0,Renault
+4,Alonso,2006,Canadian Grand Prix,1,1,10.0,Renault
+4,Alonso,2006,United States Grand Prix,5,5,4.0,Renault
+4,Alonso,2006,French Grand Prix,3,2,8.0,Renault
+37,de la Rosa,2006,French Grand Prix,8,7,2.0,McLaren
+4,Alonso,2006,German Grand Prix,7,5,4.0,Renault
+37,de la Rosa,2006,German Grand Prix,9,18,0.0,McLaren
+37,de la Rosa,2006,Hungarian Grand Prix,4,2,8.0,McLaren
+4,Alonso,2006,Hungarian Grand Prix,15,14,0.0,Renault
+4,Alonso,2006,Turkish Grand Prix,3,2,8.0,Renault
+37,de la Rosa,2006,Turkish Grand Prix,11,5,4.0,McLaren
+4,Alonso,2006,Italian Grand Prix,10,19,0.0,Renault
+37,de la Rosa,2006,Italian Grand Prix,7,20,0.0,McLaren
+4,Alonso,2006,Chinese Grand Prix,1,2,8.0,Renault
+37,de la Rosa,2006,Chinese Grand Prix,7,5,4.0,McLaren
+4,Alonso,2006,Japanese Grand Prix,5,1,10.0,Renault
+37,de la Rosa,2006,Japanese Grand Prix,13,11,0.0,McLaren
+4,Alonso,2006,Brazilian Grand Prix,4,2,8.0,Renault
+37,de la Rosa,2006,Brazilian Grand Prix,12,8,1.0,McLaren
+4,Alonso,2005,Australian Grand Prix,13,3,6.0,Renault
+4,Alonso,2005,Malaysian Grand Prix,1,1,10.0,Renault
+4,Alonso,2005,Bahrain Grand Prix,1,1,10.0,Renault
+37,de la Rosa,2005,Bahrain Grand Prix,8,5,4.0,McLaren
+4,Alonso,2005,San Marino Grand Prix,2,1,10.0,Renault
+4,Alonso,2005,Spanish Grand Prix,3,2,8.0,Renault
+4,Alonso,2005,Monaco Grand Prix,2,4,5.0,Renault
+4,Alonso,2005,European Grand Prix,6,1,10.0,Renault
+4,Alonso,2005,Canadian Grand Prix,3,17,0.0,Renault
+4,Alonso,2005,United States Grand Prix,6,11,0.0,Renault
+4,Alonso,2005,French Grand Prix,1,1,10.0,Renault
+4,Alonso,2005,British Grand Prix,1,2,8.0,Renault
+4,Alonso,2005,German Grand Prix,3,1,10.0,Renault
+4,Alonso,2005,Hungarian Grand Prix,6,11,0.0,Renault
+4,Alonso,2005,Turkish Grand Prix,3,2,8.0,Renault
+4,Alonso,2005,Italian Grand Prix,2,2,8.0,Renault
+4,Alonso,2005,Belgian Grand Prix,4,2,8.0,Renault
+4,Alonso,2005,Brazilian Grand Prix,1,3,6.0,Renault
+4,Alonso,2005,Japanese Grand Prix,16,3,6.0,Renault
+4,Alonso,2005,Chinese Grand Prix,1,1,10.0,Renault
+4,Alonso,2004,Australian Grand Prix,5,3,6.0,Renault
+4,Alonso,2004,Malaysian Grand Prix,19,7,2.0,Renault
+4,Alonso,2004,Bahrain Grand Prix,16,6,3.0,Renault
+4,Alonso,2004,San Marino Grand Prix,6,4,5.0,Renault
+4,Alonso,2004,Spanish Grand Prix,8,4,5.0,Renault
+4,Alonso,2004,Monaco Grand Prix,3,12,0.0,Renault
+4,Alonso,2004,European Grand Prix,6,5,4.0,Renault
+4,Alonso,2004,Canadian Grand Prix,5,13,0.0,Renault
+4,Alonso,2004,United States Grand Prix,9,16,0.0,Renault
+4,Alonso,2004,French Grand Prix,1,2,8.0,Renault
+48,Gené,2004,French Grand Prix,8,10,0.0,Williams
+4,Alonso,2004,British Grand Prix,16,10,0.0,Renault
+48,Gené,2004,British Grand Prix,11,12,0.0,Williams
+4,Alonso,2004,German Grand Prix,5,3,6.0,Renault
+4,Alonso,2004,Hungarian Grand Prix,5,3,6.0,Renault
+4,Alonso,2004,Belgian Grand Prix,3,16,0.0,Renault
+4,Alonso,2004,Italian Grand Prix,4,16,0.0,Renault
+4,Alonso,2004,Chinese Grand Prix,6,4,5.0,Renault
+4,Alonso,2004,Japanese Grand Prix,11,5,4.0,Renault
+4,Alonso,2004,Brazilian Grand Prix,8,4,5.0,Renault
+4,Alonso,2003,Australian Grand Prix,10,7,2.0,Renault
+4,Alonso,2003,Malaysian Grand Prix,1,3,6.0,Renault
+4,Alonso,2003,Brazilian Grand Prix,10,3,6.0,Renault
+4,Alonso,2003,San Marino Grand Prix,8,6,3.0,Renault
+4,Alonso,2003,Spanish Grand Prix,3,2,8.0,Renault
+4,Alonso,2003,Austrian Grand Prix,19,16,0.0,Renault
+4,Alonso,2003,Monaco Grand Prix,8,5,4.0,Renault
+4,Alonso,2003,Canadian Grand Prix,4,4,5.0,Renault
+4,Alonso,2003,European Grand Prix,8,4,5.0,Renault
+4,Alonso,2003,French Grand Prix,7,18,0.0,Renault
+4,Alonso,2003,British Grand Prix,8,18,0.0,Renault
+4,Alonso,2003,German Grand Prix,8,4,5.0,Renault
+4,Alonso,2003,Hungarian Grand Prix,1,1,10.0,Renault
+48,Gené,2003,Italian Grand Prix,5,5,4.0,Williams
+4,Alonso,2003,Italian Grand Prix,20,8,1.0,Renault
+4,Alonso,2003,United States Grand Prix,6,15,0.0,Renault
+4,Alonso,2003,Japanese Grand Prix,5,18,0.0,Renault
+37,de la Rosa,2002,Australian Grand Prix,20,8,0.0,Jaguar
+37,de la Rosa,2002,Malaysian Grand Prix,17,10,0.0,Jaguar
+37,de la Rosa,2002,Brazilian Grand Prix,11,8,0.0,Jaguar
+37,de la Rosa,2002,San Marino Grand Prix,22,16,0.0,Jaguar
+37,de la Rosa,2002,Spanish Grand Prix,16,19,0.0,Jaguar
+37,de la Rosa,2002,Austrian Grand Prix,19,22,0.0,Jaguar
+37,de la Rosa,2002,Monaco Grand Prix,17,10,0.0,Jaguar
+37,de la Rosa,2002,Canadian Grand Prix,16,20,0.0,Jaguar
+37,de la Rosa,2002,European Grand Prix,16,10,0.0,Jaguar
+37,de la Rosa,2002,British Grand Prix,21,11,0.0,Jaguar
+37,de la Rosa,2002,French Grand Prix,15,9,0.0,Jaguar
+37,de la Rosa,2002,German Grand Prix,20,21,0.0,Jaguar
+37,de la Rosa,2002,Hungarian Grand Prix,15,13,0.0,Jaguar
+37,de la Rosa,2002,Belgian Grand Prix,11,14,0.0,Jaguar
+37,de la Rosa,2002,Italian Grand Prix,8,18,0.0,Jaguar
+37,de la Rosa,2002,United States Grand Prix,17,20,0.0,Jaguar
+37,de la Rosa,2002,Japanese Grand Prix,17,12,0.0,Jaguar
+4,Alonso,2001,Australian Grand Prix,19,12,0.0,Minardi
+4,Alonso,2001,Malaysian Grand Prix,21,13,0.0,Minardi
+4,Alonso,2001,Brazilian Grand Prix,19,19,0.0,Minardi
+4,Alonso,2001,San Marino Grand Prix,18,22,0.0,Minardi
+4,Alonso,2001,Spanish Grand Prix,18,13,0.0,Minardi
+37,de la Rosa,2001,Spanish Grand Prix,20,21,0.0,Jaguar
+37,de la Rosa,2001,Austrian Grand Prix,14,13,0.0,Jaguar
+4,Alonso,2001,Austrian Grand Prix,18,15,0.0,Minardi
+4,Alonso,2001,Monaco Grand Prix,18,13,0.0,Minardi
+37,de la Rosa,2001,Monaco Grand Prix,14,18,0.0,Jaguar
+37,de la Rosa,2001,Canadian Grand Prix,14,6,1.0,Jaguar
+4,Alonso,2001,Canadian Grand Prix,22,19,0.0,Minardi
+37,de la Rosa,2001,European Grand Prix,16,8,0.0,Jaguar
+4,Alonso,2001,European Grand Prix,21,14,0.0,Minardi
+37,de la Rosa,2001,French Grand Prix,14,14,0.0,Jaguar
+4,Alonso,2001,French Grand Prix,21,17,0.0,Minardi
+37,de la Rosa,2001,British Grand Prix,13,12,0.0,Jaguar
+4,Alonso,2001,British Grand Prix,21,16,0.0,Minardi
+4,Alonso,2001,German Grand Prix,21,10,0.0,Minardi
+37,de la Rosa,2001,German Grand Prix,9,22,0.0,Jaguar
+37,de la Rosa,2001,Hungarian Grand Prix,13,11,0.0,Jaguar
+4,Alonso,2001,Hungarian Grand Prix,18,18,0.0,Minardi
+37,de la Rosa,2001,Belgian Grand Prix,10,17,0.0,Jaguar
+4,Alonso,2001,Belgian Grand Prix,20,22,0.0,Minardi
+37,de la Rosa,2001,Italian Grand Prix,10,5,2.0,Jaguar
+4,Alonso,2001,Italian Grand Prix,21,13,0.0,Minardi
+37,de la Rosa,2001,United States Grand Prix,16,12,0.0,Jaguar
+4,Alonso,2001,United States Grand Prix,17,21,0.0,Minardi
+4,Alonso,2001,Japanese Grand Prix,18,11,0.0,Minardi
+37,de la Rosa,2001,Japanese Grand Prix,16,18,0.0,Jaguar
+48,Gené,2000,Australian Grand Prix,18,8,0.0,Minardi
+37,de la Rosa,2000,Australian Grand Prix,12,20,0.0,Arrows
+37,de la Rosa,2000,Brazilian Grand Prix,16,8,0.0,Arrows
+48,Gené,2000,Brazilian Grand Prix,18,13,0.0,Minardi
+37,de la Rosa,2000,San Marino Grand Prix,13,16,0.0,Arrows
+48,Gené,2000,San Marino Grand Prix,21,21,0.0,Minardi
+48,Gené,2000,British Grand Prix,21,14,0.0,Minardi
+37,de la Rosa,2000,British Grand Prix,19,21,0.0,Arrows
+48,Gené,2000,Spanish Grand Prix,20,14,0.0,Minardi
+37,de la Rosa,2000,Spanish Grand Prix,22,21,0.0,Arrows
+37,de la Rosa,2000,European Grand Prix,12,6,1.0,Arrows
+48,Gené,2000,European Grand Prix,20,14,0.0,Minardi
+48,Gené,2000,Monaco Grand Prix,21,19,0.0,Minardi
+37,de la Rosa,2000,Monaco Grand Prix,16,22,0.0,Arrows
+48,Gené,2000,Canadian Grand Prix,20,16,0.0,Minardi
+37,de la Rosa,2000,Canadian Grand Prix,9,17,0.0,Arrows
+48,Gené,2000,French Grand Prix,21,15,0.0,Minardi
+37,de la Rosa,2000,French Grand Prix,13,17,0.0,Arrows
+48,Gené,2000,Austrian Grand Prix,20,8,0.0,Minardi
+37,de la Rosa,2000,Austrian Grand Prix,12,17,0.0,Arrows
+37,de la Rosa,2000,German Grand Prix,5,6,1.0,Arrows
+48,Gené,2000,German Grand Prix,22,16,0.0,Minardi
+48,Gené,2000,Hungarian Grand Prix,21,15,0.0,Minardi
+37,de la Rosa,2000,Hungarian Grand Prix,15,16,0.0,Arrows
+48,Gené,2000,Belgian Grand Prix,21,14,0.0,Minardi
+37,de la Rosa,2000,Belgian Grand Prix,16,16,0.0,Arrows
+48,Gené,2000,Italian Grand Prix,21,9,0.0,Minardi
+37,de la Rosa,2000,Italian Grand Prix,10,21,0.0,Arrows
+48,Gené,2000,United States Grand Prix,22,12,0.0,Minardi
+37,de la Rosa,2000,United States Grand Prix,18,16,0.0,Arrows
+37,de la Rosa,2000,Japanese Grand Prix,13,12,0.0,Arrows
+48,Gené,2000,Japanese Grand Prix,21,16,0.0,Minardi
+48,Gené,2000,Malaysian Grand Prix,21,17,0.0,Minardi
+37,de la Rosa,2000,Malaysian Grand Prix,14,20,0.0,Arrows
+37,de la Rosa,1999,Australian Grand Prix,18,6,1.0,Arrows
+48,Gené,1999,Australian Grand Prix,22,13,0.0,Minardi
+48,Gené,1999,Brazilian Grand Prix,20,9,0.0,Minardi
+37,de la Rosa,1999,Brazilian Grand Prix,17,10,0.0,Arrows
+48,Gené,1999,San Marino Grand Prix,21,9,0.0,Minardi
+37,de la Rosa,1999,San Marino Grand Prix,18,19,0.0,Arrows
+37,de la Rosa,1999,Monaco Grand Prix,21,19,0.0,Arrows
+48,Gené,1999,Monaco Grand Prix,22,20,0.0,Minardi
+37,de la Rosa,1999,Spanish Grand Prix,19,11,0.0,Arrows
+48,Gené,1999,Spanish Grand Prix,21,21,0.0,Minardi
+48,Gené,1999,Canadian Grand Prix,22,8,0.0,Minardi
+37,de la Rosa,1999,Canadian Grand Prix,20,16,0.0,Arrows
+37,de la Rosa,1999,French Grand Prix,21,11,0.0,Arrows
+48,Gené,1999,French Grand Prix,19,17,0.0,Minardi
+48,Gené,1999,British Grand Prix,22,15,0.0,Minardi
+37,de la Rosa,1999,British Grand Prix,20,21,0.0,Arrows
+48,Gené,1999,Austrian Grand Prix,22,11,0.0,Minardi
+37,de la Rosa,1999,Austrian Grand Prix,21,18,0.0,Arrows
+48,Gené,1999,German Grand Prix,15,9,0.0,Minardi
+37,de la Rosa,1999,German Grand Prix,20,12,0.0,Arrows
+37,de la Rosa,1999,Hungarian Grand Prix,20,15,0.0,Arrows
+48,Gené,1999,Hungarian Grand Prix,22,17,0.0,Minardi
+48,Gené,1999,Belgian Grand Prix,21,16,0.0,Minardi
+37,de la Rosa,1999,Belgian Grand Prix,22,17,0.0,Arrows
+37,de la Rosa,1999,Italian Grand Prix,21,14,0.0,Arrows
+48,Gené,1999,Italian Grand Prix,20,22,0.0,Minardi
+48,Gené,1999,European Grand Prix,20,6,1.0,Minardi
+37,de la Rosa,1999,European Grand Prix,22,12,0.0,Arrows
+48,Gené,1999,Malaysian Grand Prix,19,9,0.0,Minardi
+37,de la Rosa,1999,Malaysian Grand Prix,20,14,0.0,Arrows
+37,de la Rosa,1999,Japanese Grand Prix,21,13,0.0,Arrows
+48,Gené,1999,Japanese Grand Prix,20,18,0.0,Minardi
+4,Alonso,2009,Australian Grand Prix,10,5,4.0,Renault
+4,Alonso,2009,Malaysian Grand Prix,9,11,0.0,Renault
+4,Alonso,2009,Chinese Grand Prix,2,9,0.0,Renault
+4,Alonso,2009,Bahrain Grand Prix,7,8,1.0,Renault
+4,Alonso,2009,Spanish Grand Prix,8,5,4.0,Renault
+4,Alonso,2009,Monaco Grand Prix,9,7,2.0,Renault
+4,Alonso,2009,Turkish Grand Prix,8,10,0.0,Renault
+4,Alonso,2009,British Grand Prix,10,14,0.0,Renault
+4,Alonso,2009,German Grand Prix,12,7,2.0,Renault
+153,Alguersuari,2009,Hungarian Grand Prix,19,15,0.0,Toro Rosso
+4,Alonso,2009,Hungarian Grand Prix,1,18,0.0,Renault
+4,Alonso,2009,European Grand Prix,8,6,3.0,Renault
+153,Alguersuari,2009,European Grand Prix,19,16,0.0,Toro Rosso
+4,Alonso,2009,Belgian Grand Prix,13,15,0.0,Renault
+153,Alguersuari,2009,Belgian Grand Prix,17,20,0.0,Toro Rosso
+4,Alonso,2009,Italian Grand Prix,8,5,4.0,Renault
+153,Alguersuari,2009,Italian Grand Prix,20,18,0.0,Toro Rosso
+4,Alonso,2009,Singapore Grand Prix,5,3,6.0,Renault
+153,Alguersuari,2009,Singapore Grand Prix,16,15,0.0,Toro Rosso
+4,Alonso,2009,Japanese Grand Prix,16,10,0.0,Renault
+153,Alguersuari,2009,Japanese Grand Prix,12,18,0.0,Toro Rosso
+153,Alguersuari,2009,Brazilian Grand Prix,12,14,0.0,Toro Rosso
+4,Alonso,2009,Brazilian Grand Prix,10,20,0.0,Renault
+159,Pérez-Sala,1989,Brazilian Grand Prix,23,26,0.0,Minardi
+159,Pérez-Sala,1989,San Marino Grand Prix,15,15,0.0,Minardi
+159,Pérez-Sala,1989,Monaco Grand Prix,26,16,0.0,Minardi
+159,Pérez-Sala,1989,Mexican Grand Prix,0,27,0.0,Minardi
+159,Pérez-Sala,1989,United States Grand Prix,20,14,0.0,Minardi
+159,Pérez-Sala,1989,Canadian Grand Prix,24,16,0.0,Minardi
+159,Pérez-Sala,1989,French Grand Prix,0,28,0.0,Minardi
+159,Pérez-Sala,1989,British Grand Prix,15,6,1.0,Minardi
+159,Pérez-Sala,1989,German Grand Prix,0,27,0.0,Minardi
+159,Pérez-Sala,1989,Hungarian Grand Prix,23,14,0.0,Minardi
+159,Pérez-Sala,1989,Belgian Grand Prix,25,15,0.0,Minardi
+159,Pérez-Sala,1989,Italian Grand Prix,26,8,0.0,Minardi
+159,Pérez-Sala,1989,Portuguese Grand Prix,9,12,0.0,Minardi
+159,Pérez-Sala,1989,Spanish Grand Prix,20,16,0.0,Minardi
+159,Pérez-Sala,1989,Japanese Grand Prix,14,25,0.0,Minardi
+159,Pérez-Sala,1989,Australian Grand Prix,0,28,0.0,Minardi
+159,Pérez-Sala,1988,Brazilian Grand Prix,20,12,0.0,Minardi
+167,Campos,1988,Brazilian Grand Prix,23,24,0.0,Minardi
+159,Pérez-Sala,1988,San Marino Grand Prix,18,11,0.0,Minardi
+167,Campos,1988,San Marino Grand Prix,22,16,0.0,Minardi
+159,Pérez-Sala,1988,Monaco Grand Prix,15,16,0.0,Minardi
+167,Campos,1988,Monaco Grand Prix,0,29,0.0,Minardi
+159,Pérez-Sala,1988,Mexican Grand Prix,25,11,0.0,Minardi
+167,Campos,1988,Mexican Grand Prix,0,27,0.0,Minardi
+159,Pérez-Sala,1988,Canadian Grand Prix,21,13,0.0,Minardi
+167,Campos,1988,Canadian Grand Prix,0,27,0.0,Minardi
+159,Pérez-Sala,1988,Detroit Grand Prix,25,10,0.0,Minardi
+159,Pérez-Sala,1988,French Grand Prix,25,16,0.0,Minardi
+159,Pérez-Sala,1988,British Grand Prix,18,26,0.0,Minardi
+159,Pérez-Sala,1988,German Grand Prix,0,27,0.0,Minardi
+159,Pérez-Sala,1988,Hungarian Grand Prix,11,10,0.0,Minardi
+159,Pérez-Sala,1988,Belgian Grand Prix,0,27,0.0,Minardi
+159,Pérez-Sala,1988,Italian Grand Prix,19,24,0.0,Minardi
+159,Pérez-Sala,1988,Portuguese Grand Prix,19,8,0.0,Minardi
+159,Pérez-Sala,1988,Spanish Grand Prix,24,12,0.0,Minardi
+159,Pérez-Sala,1988,Japanese Grand Prix,22,15,0.0,Minardi
+159,Pérez-Sala,1988,Australian Grand Prix,21,20,0.0,Minardi
+167,Campos,1987,Brazilian Grand Prix,16,22,0.0,Minardi
+167,Campos,1987,San Marino Grand Prix,16,19,0.0,Minardi
+167,Campos,1987,Belgian Grand Prix,19,25,0.0,Minardi
+167,Campos,1987,Monaco Grand Prix,0,25,0.0,Minardi
+167,Campos,1987,Detroit Grand Prix,25,25,0.0,Minardi
+167,Campos,1987,French Grand Prix,21,16,0.0,Minardi
+167,Campos,1987,British Grand Prix,19,15,0.0,Minardi
+167,Campos,1987,German Grand Prix,18,10,0.0,Minardi
+167,Campos,1987,Hungarian Grand Prix,24,23,0.0,Minardi
+167,Campos,1987,Austrian Grand Prix,19,23,0.0,Minardi
+167,Campos,1987,Italian Grand Prix,20,19,0.0,Minardi
+167,Campos,1987,Portuguese Grand Prix,20,23,0.0,Minardi
+167,Campos,1987,Spanish Grand Prix,24,14,0.0,Minardi
+167,Campos,1987,Mexican Grand Prix,19,14,0.0,Minardi
+167,Campos,1987,Japanese Grand Prix,21,25,0.0,Minardi
+167,Campos,1987,Australian Grand Prix,26,17,0.0,Minardi
+208,de Villota,1982,Belgian Grand Prix,0,32,0.0,March
+208,de Villota,1982,Monaco Grand Prix,0,31,0.0,March
+208,de Villota,1982,Detroit Grand Prix,0,27,0.0,March
+208,de Villota,1982,Canadian Grand Prix,0,28,0.0,March
+208,de Villota,1982,Dutch Grand Prix,0,31,0.0,March
+208,de Villota,1978,Spanish Grand Prix,0,27,0.0,McLaren
+208,de Villota,1977,Spanish Grand Prix,23,13,0.0,McLaren
+208,de Villota,1977,Belgian Grand Prix,0,27,0.0,McLaren
+208,de Villota,1977,Swedish Grand Prix,0,26,0.0,McLaren
+208,de Villota,1977,British Grand Prix,0,30,0.0,McLaren
+208,de Villota,1977,German Grand Prix,0,26,0.0,McLaren
+208,de Villota,1977,Austrian Grand Prix,26,17,0.0,McLaren
+208,de Villota,1977,Italian Grand Prix,0,29,0.0,McLaren
+279,Zapico,1976,Spanish Grand Prix,0,27,0.0,Williams
+208,de Villota,1976,Spanish Grand Prix,0,28,0.0,Brabham-Ford
+339,Soler-Roig,1972,Argentine Grand Prix,21,21,0.0,BRM
+339,Soler-Roig,1972,Spanish Grand Prix,22,25,0.0,BRM
+339,Soler-Roig,1971,South African Grand Prix,25,25,0.0,March-Ford
+339,Soler-Roig,1971,Spanish Grand Prix,20,16,0.0,March-Ford
+339,Soler-Roig,1971,Monaco Grand Prix,0,21,0.0,March-Ford
+339,Soler-Roig,1971,Dutch Grand Prix,17,16,0.0,March-Ford
+339,Soler-Roig,1971,French Grand Prix,21,23,0.0,March-Ford
+339,Soler-Roig,1970,Spanish Grand Prix,0,22,0.0,Team Lotus
+339,Soler-Roig,1970,French Grand Prix,0,22,0.0,Team Lotus
+4,Alonso,2009,Abu Dhabi Grand Prix,15,14,0.0,Renault
+153,Alguersuari,2009,Abu Dhabi Grand Prix,14,20,0.0,Toro Rosso
+504,Creus,1960,Argentine Grand Prix,22,21,0.0,Maserati
+580,Godia,1958,Argentine Grand Prix,9,8,0.0,Maserati
+580,Godia,1958,Monaco Grand Prix,0,31,0.0,Maserati
+580,Godia,1958,Belgian Grand Prix,18,11,0.0,Maserati
+580,Godia,1958,French Grand Prix,11,16,0.0,Maserati
+606,de Portago,1957,Argentine Grand Prix,10,5,1.0,Ferrari
+580,Godia,1957,German Grand Prix,21,19,0.0,Maserati
+580,Godia,1957,Pescara Grand Prix,12,9,0.0,Maserati
+580,Godia,1957,Italian Grand Prix,15,9,0.0,Maserati
+580,Godia,1956,Belgian Grand Prix,13,15,0.0,Maserati
+580,Godia,1956,French Grand Prix,17,7,0.0,Maserati
+606,de Portago,1956,French Grand Prix,9,16,0.0,Ferrari
+606,de Portago,1956,British Grand Prix,12,2,3.0,Ferrari
+580,Godia,1956,British Grand Prix,25,8,0.0,Maserati
+580,Godia,1956,German Grand Prix,16,4,3.0,Maserati
+606,de Portago,1956,German Grand Prix,10,9,0.0,Ferrari
+580,Godia,1956,Italian Grand Prix,18,4,3.0,Maserati
+606,de Portago,1956,Italian Grand Prix,9,22,0.0,Ferrari
+580,Godia,1954,Spanish Grand Prix,13,6,0.0,Maserati
+580,Godia,1951,Spanish Grand Prix,17,10,0.0,Maserati
+782,Jover,1951,Spanish Grand Prix,18,20,0.0,Maserati
+606,de Portago,1956,British Grand Prix,8,10,0.0,Ferrari
+4,Alonso,2010,Bahrain Grand Prix,3,1,25.0,Ferrari
+153,Alguersuari,2010,Bahrain Grand Prix,18,13,0.0,Toro Rosso
+37,de la Rosa,2010,Bahrain Grand Prix,14,18,0.0,Sauber
+4,Alonso,2010,Australian Grand Prix,3,4,12.0,Ferrari
+153,Alguersuari,2010,Australian Grand Prix,17,11,0.0,Toro Rosso
+37,de la Rosa,2010,Australian Grand Prix,14,12,0.0,Sauber
+153,Alguersuari,2010,Malaysian Grand Prix,14,9,2.0,Toro Rosso
+4,Alonso,2010,Malaysian Grand Prix,19,13,0.0,Ferrari
+37,de la Rosa,2010,Malaysian Grand Prix,12,24,0.0,Sauber
+4,Alonso,2010,Chinese Grand Prix,3,4,12.0,Ferrari
+153,Alguersuari,2010,Chinese Grand Prix,12,13,0.0,Toro Rosso
+37,de la Rosa,2010,Chinese Grand Prix,17,20,0.0,Sauber
+4,Alonso,2010,Spanish Grand Prix,4,2,18.0,Ferrari
+153,Alguersuari,2010,Spanish Grand Prix,15,10,1.0,Toro Rosso
+37,de la Rosa,2010,Spanish Grand Prix,12,22,0.0,Sauber
+4,Alonso,2010,Monaco Grand Prix,24,6,8.0,Ferrari
+153,Alguersuari,2010,Monaco Grand Prix,17,11,0.0,Toro Rosso
+37,de la Rosa,2010,Monaco Grand Prix,15,22,0.0,Sauber
+4,Alonso,2010,Turkish Grand Prix,12,8,4.0,Ferrari
+37,de la Rosa,2010,Turkish Grand Prix,13,11,0.0,Sauber
+153,Alguersuari,2010,Turkish Grand Prix,16,12,0.0,Toro Rosso
+4,Alonso,2010,Canadian Grand Prix,3,3,15.0,Ferrari
+153,Alguersuari,2010,Canadian Grand Prix,16,12,0.0,Toro Rosso
+37,de la Rosa,2010,Canadian Grand Prix,17,22,0.0,Sauber
+4,Alonso,2010,European Grand Prix,4,8,4.0,Ferrari
+37,de la Rosa,2010,European Grand Prix,16,12,0.0,Sauber
+153,Alguersuari,2010,European Grand Prix,17,13,0.0,Toro Rosso
+4,Alonso,2010,British Grand Prix,3,14,0.0,Ferrari
+153,Alguersuari,2010,British Grand Prix,17,21,0.0,Toro Rosso
+37,de la Rosa,2010,British Grand Prix,9,22,0.0,Sauber
+4,Alonso,2010,German Grand Prix,2,1,25.0,Ferrari
+37,de la Rosa,2010,German Grand Prix,14,14,0.0,Sauber
+153,Alguersuari,2010,German Grand Prix,15,15,0.0,Toro Rosso
+4,Alonso,2010,Hungarian Grand Prix,3,2,18.0,Ferrari
+37,de la Rosa,2010,Hungarian Grand Prix,9,7,6.0,Sauber
+153,Alguersuari,2010,Hungarian Grand Prix,17,24,0.0,Toro Rosso
+37,de la Rosa,2010,Belgian Grand Prix,24,11,0.0,Sauber
+153,Alguersuari,2010,Belgian Grand Prix,11,13,0.0,Toro Rosso
+4,Alonso,2010,Belgian Grand Prix,10,21,0.0,Ferrari
+4,Alonso,2010,Italian Grand Prix,1,1,25.0,Ferrari
+37,de la Rosa,2010,Italian Grand Prix,16,14,0.0,Sauber
+153,Alguersuari,2010,Italian Grand Prix,15,15,0.0,Toro Rosso
+4,Alonso,2010,Singapore Grand Prix,1,1,25.0,Ferrari
+153,Alguersuari,2010,Singapore Grand Prix,11,12,0.0,Toro Rosso
+4,Alonso,2010,Japanese Grand Prix,4,3,15.0,Ferrari
+153,Alguersuari,2010,Japanese Grand Prix,16,11,0.0,Toro Rosso
+4,Alonso,2010,Korean Grand Prix,3,1,25.0,Ferrari
+153,Alguersuari,2010,Korean Grand Prix,15,11,0.0,Toro Rosso
+4,Alonso,2010,Brazilian Grand Prix,5,3,15.0,Ferrari
+153,Alguersuari,2010,Brazilian Grand Prix,14,11,0.0,Toro Rosso
+4,Alonso,2010,Abu Dhabi Grand Prix,3,7,6.0,Ferrari
+153,Alguersuari,2010,Abu Dhabi Grand Prix,17,9,2.0,Toro Rosso
+4,Alonso,2011,Australian Grand Prix,5,4,12.0,Ferrari
+153,Alguersuari,2011,Australian Grand Prix,12,11,0.0,Toro Rosso
+4,Alonso,2011,Malaysian Grand Prix,5,6,8.0,Ferrari
+153,Alguersuari,2011,Malaysian Grand Prix,13,14,0.0,Toro Rosso
+4,Alonso,2011,Chinese Grand Prix,5,7,6.0,Ferrari
+153,Alguersuari,2011,Chinese Grand Prix,7,24,0.0,Toro Rosso
+4,Alonso,2011,Turkish Grand Prix,5,3,15.0,Ferrari
+153,Alguersuari,2011,Turkish Grand Prix,17,16,0.0,Toro Rosso
+4,Alonso,2011,Spanish Grand Prix,4,5,10.0,Ferrari
+153,Alguersuari,2011,Spanish Grand Prix,13,16,0.0,Toro Rosso
+4,Alonso,2011,Monaco Grand Prix,4,2,18.0,Ferrari
+153,Alguersuari,2011,Monaco Grand Prix,19,20,0.0,Toro Rosso
+153,Alguersuari,2011,Canadian Grand Prix,24,8,4.0,Toro Rosso
+37,de la Rosa,2011,Canadian Grand Prix,17,12,0.0,Sauber
+4,Alonso,2011,Canadian Grand Prix,2,22,0.0,Ferrari
+4,Alonso,2011,European Grand Prix,4,2,18.0,Ferrari
+153,Alguersuari,2011,European Grand Prix,18,8,4.0,Toro Rosso
+4,Alonso,2011,British Grand Prix,3,1,25.0,Ferrari
+153,Alguersuari,2011,British Grand Prix,18,10,1.0,Toro Rosso
+4,Alonso,2011,German Grand Prix,4,2,18.0,Ferrari
+153,Alguersuari,2011,German Grand Prix,16,12,0.0,Toro Rosso
+4,Alonso,2011,Hungarian Grand Prix,5,3,15.0,Ferrari
+153,Alguersuari,2011,Hungarian Grand Prix,16,10,1.0,Toro Rosso
+4,Alonso,2011,Belgian Grand Prix,8,4,12.0,Ferrari
+153,Alguersuari,2011,Belgian Grand Prix,6,24,0.0,Toro Rosso
+4,Alonso,2011,Italian Grand Prix,4,3,15.0,Ferrari
+153,Alguersuari,2011,Italian Grand Prix,18,7,6.0,Toro Rosso
+4,Alonso,2011,Singapore Grand Prix,5,4,12.0,Ferrari
+153,Alguersuari,2011,Singapore Grand Prix,16,21,0.0,Toro Rosso
+4,Alonso,2011,Japanese Grand Prix,5,2,18.0,Ferrari
+153,Alguersuari,2011,Japanese Grand Prix,16,15,0.0,Toro Rosso
+4,Alonso,2011,Korean Grand Prix,6,5,10.0,Ferrari
+153,Alguersuari,2011,Korean Grand Prix,11,7,6.0,Toro Rosso
+4,Alonso,2011,Indian Grand Prix,3,3,15.0,Ferrari
+153,Alguersuari,2011,Indian Grand Prix,10,8,4.0,Toro Rosso
+4,Alonso,2011,Abu Dhabi Grand Prix,5,2,18.0,Ferrari
+153,Alguersuari,2011,Abu Dhabi Grand Prix,15,15,0.0,Toro Rosso
+4,Alonso,2011,Brazilian Grand Prix,5,4,12.0,Ferrari
+153,Alguersuari,2011,Brazilian Grand Prix,13,11,0.0,Toro Rosso
+4,Alonso,2012,Australian Grand Prix,12,5,10.0,Ferrari
+37,de la Rosa,2012,Australian Grand Prix,0,23,0.0,HRT
+4,Alonso,2012,Malaysian Grand Prix,8,1,25.0,Ferrari
+37,de la Rosa,2012,Malaysian Grand Prix,22,22,0.0,HRT
+4,Alonso,2012,Chinese Grand Prix,9,9,2.0,Ferrari
+37,de la Rosa,2012,Chinese Grand Prix,22,21,0.0,HRT
+4,Alonso,2012,Bahrain Grand Prix,9,7,6.0,Ferrari
+37,de la Rosa,2012,Bahrain Grand Prix,20,20,0.0,HRT
+4,Alonso,2012,Spanish Grand Prix,2,2,18.0,Ferrari
+37,de la Rosa,2012,Spanish Grand Prix,22,19,0.0,HRT
+4,Alonso,2012,Monaco Grand Prix,5,3,15.0,Ferrari
+37,de la Rosa,2012,Monaco Grand Prix,20,22,0.0,HRT
+4,Alonso,2012,Canadian Grand Prix,3,5,10.0,Ferrari
+37,de la Rosa,2012,Canadian Grand Prix,20,23,0.0,HRT
+4,Alonso,2012,European Grand Prix,11,1,25.0,Ferrari
+37,de la Rosa,2012,European Grand Prix,21,17,0.0,HRT
+4,Alonso,2012,British Grand Prix,1,2,18.0,Ferrari
+37,de la Rosa,2012,British Grand Prix,21,20,0.0,HRT
+4,Alonso,2012,German Grand Prix,1,1,25.0,Ferrari
+37,de la Rosa,2012,German Grand Prix,23,21,0.0,HRT
+4,Alonso,2012,Hungarian Grand Prix,6,5,10.0,Ferrari
+37,de la Rosa,2012,Hungarian Grand Prix,23,22,0.0,HRT
+37,de la Rosa,2012,Belgian Grand Prix,21,18,0.0,HRT
+4,Alonso,2012,Belgian Grand Prix,5,22,0.0,Ferrari
+4,Alonso,2012,Italian Grand Prix,10,3,15.0,Ferrari
+37,de la Rosa,2012,Italian Grand Prix,23,18,0.0,HRT
+4,Alonso,2012,Singapore Grand Prix,5,3,15.0,Ferrari
+37,de la Rosa,2012,Singapore Grand Prix,24,17,0.0,HRT
+37,de la Rosa,2012,Japanese Grand Prix,20,18,0.0,HRT
+4,Alonso,2012,Japanese Grand Prix,6,23,0.0,Ferrari
+4,Alonso,2012,Korean Grand Prix,4,3,15.0,Ferrari
+37,de la Rosa,2012,Korean Grand Prix,22,21,0.0,HRT
+4,Alonso,2012,Indian Grand Prix,5,2,18.0,Ferrari
+37,de la Rosa,2012,Indian Grand Prix,22,23,0.0,HRT
+4,Alonso,2012,Abu Dhabi Grand Prix,6,2,18.0,Ferrari
+37,de la Rosa,2012,Abu Dhabi Grand Prix,22,17,0.0,HRT
+4,Alonso,2012,United States Grand Prix,7,3,15.0,Ferrari
+37,de la Rosa,2012,United States Grand Prix,23,21,0.0,HRT
+4,Alonso,2012,Brazilian Grand Prix,7,2,18.0,Ferrari
+37,de la Rosa,2012,Brazilian Grand Prix,24,17,0.0,HRT
+4,Alonso,2013,Australian Grand Prix,5,2,18.0,Ferrari
+4,Alonso,2013,Malaysian Grand Prix,3,22,0.0,Ferrari
+4,Alonso,2013,Chinese Grand Prix,3,1,25.0,Ferrari
+4,Alonso,2013,Bahrain Grand Prix,3,8,4.0,Ferrari
+4,Alonso,2013,Spanish Grand Prix,5,1,25.0,Ferrari
+4,Alonso,2013,Monaco Grand Prix,6,7,6.0,Ferrari
+4,Alonso,2013,Canadian Grand Prix,6,2,18.0,Ferrari
+4,Alonso,2013,British Grand Prix,9,3,15.0,Ferrari
+4,Alonso,2013,German Grand Prix,8,4,12.0,Ferrari
+4,Alonso,2013,Hungarian Grand Prix,5,5,10.0,Ferrari
+4,Alonso,2013,Belgian Grand Prix,9,2,18.0,Ferrari
+4,Alonso,2013,Italian Grand Prix,5,2,18.0,Ferrari
+4,Alonso,2013,Singapore Grand Prix,7,2,18.0,Ferrari
+4,Alonso,2013,Korean Grand Prix,5,6,8.0,Ferrari
+4,Alonso,2013,Japanese Grand Prix,8,4,12.0,Ferrari
+4,Alonso,2013,Indian Grand Prix,8,11,0.0,Ferrari
+4,Alonso,2013,Abu Dhabi Grand Prix,10,5,10.0,Ferrari
+4,Alonso,2013,United States Grand Prix,6,5,10.0,Ferrari
+4,Alonso,2013,Brazilian Grand Prix,3,3,15.0,Ferrari
+4,Alonso,2014,Australian Grand Prix,5,4,12.0,Ferrari
+4,Alonso,2014,Malaysian Grand Prix,4,4,12.0,Ferrari
+4,Alonso,2014,Bahrain Grand Prix,9,9,2.0,Ferrari
+4,Alonso,2014,Chinese Grand Prix,5,3,15.0,Ferrari
+4,Alonso,2014,Spanish Grand Prix,7,6,8.0,Ferrari
+4,Alonso,2014,Monaco Grand Prix,5,4,12.0,Ferrari
+4,Alonso,2014,Canadian Grand Prix,7,6,8.0,Ferrari
+4,Alonso,2014,Austrian Grand Prix,4,5,10.0,Ferrari
+4,Alonso,2014,British Grand Prix,16,6,8.0,Ferrari
+4,Alonso,2014,German Grand Prix,7,5,10.0,Ferrari
+4,Alonso,2014,Hungarian Grand Prix,5,2,18.0,Ferrari
+4,Alonso,2014,Belgian Grand Prix,4,7,6.0,Ferrari
+4,Alonso,2014,Italian Grand Prix,7,21,0.0,Ferrari
+4,Alonso,2014,Singapore Grand Prix,5,4,12.0,Ferrari
+4,Alonso,2014,Japanese Grand Prix,5,22,0.0,Ferrari
+4,Alonso,2014,Russian Grand Prix,7,6,8.0,Ferrari
+4,Alonso,2014,United States Grand Prix,6,6,8.0,Ferrari
+4,Alonso,2014,Brazilian Grand Prix,8,6,8.0,Ferrari
+4,Alonso,2014,Abu Dhabi Grand Prix,8,9,4.0,Ferrari
+832,Sainz,2015,Australian Grand Prix,7,9,2.0,Toro Rosso
+832,Sainz,2015,Malaysian Grand Prix,15,8,4.0,Toro Rosso
+833,Merhi,2015,Malaysian Grand Prix,19,15,0.0,Manor Marussia
+4,Alonso,2015,Malaysian Grand Prix,18,18,0.0,McLaren
+4,Alonso,2015,Chinese Grand Prix,18,12,0.0,McLaren
+832,Sainz,2015,Chinese Grand Prix,14,13,0.0,Toro Rosso
+833,Merhi,2015,Chinese Grand Prix,20,16,0.0,Manor Marussia
+4,Alonso,2015,Bahrain Grand Prix,14,11,0.0,McLaren
+833,Merhi,2015,Bahrain Grand Prix,19,17,0.0,Manor Marussia
+832,Sainz,2015,Bahrain Grand Prix,9,19,0.0,Toro Rosso
+832,Sainz,2015,Spanish Grand Prix,5,9,2.0,Toro Rosso
+833,Merhi,2015,Spanish Grand Prix,20,18,0.0,Manor Marussia
+4,Alonso,2015,Spanish Grand Prix,13,20,0.0,McLaren
+832,Sainz,2015,Monaco Grand Prix,0,10,1.0,Toro Rosso
+833,Merhi,2015,Monaco Grand Prix,19,16,0.0,Manor Marussia
+4,Alonso,2015,Monaco Grand Prix,13,19,0.0,McLaren
+832,Sainz,2015,Canadian Grand Prix,11,12,0.0,Toro Rosso
+833,Merhi,2015,Canadian Grand Prix,16,18,0.0,Manor Marussia
+4,Alonso,2015,Canadian Grand Prix,13,20,0.0,McLaren
+833,Merhi,2015,Austrian Grand Prix,16,14,0.0,Manor Marussia
+832,Sainz,2015,Austrian Grand Prix,12,16,0.0,Toro Rosso
+4,Alonso,2015,Austrian Grand Prix,19,20,0.0,McLaren
+4,Alonso,2015,British Grand Prix,17,10,1.0,McLaren
+833,Merhi,2015,British Grand Prix,20,12,0.0,Manor Marussia
+832,Sainz,2015,British Grand Prix,8,14,0.0,Toro Rosso
+4,Alonso,2015,Hungarian Grand Prix,15,5,10.0,McLaren
+833,Merhi,2015,Hungarian Grand Prix,19,15,0.0,Manor Marussia
+832,Sainz,2015,Hungarian Grand Prix,12,17,0.0,Toro Rosso
+4,Alonso,2015,Belgian Grand Prix,20,13,0.0,McLaren
+833,Merhi,2015,Belgian Grand Prix,17,15,0.0,Manor Marussia
+832,Sainz,2015,Belgian Grand Prix,10,17,0.0,Toro Rosso
+832,Sainz,2015,Italian Grand Prix,17,11,0.0,Toro Rosso
+833,Merhi,2015,Italian Grand Prix,14,16,0.0,Manor Marussia
+4,Alonso,2015,Italian Grand Prix,16,18,0.0,McLaren
+832,Sainz,2015,Singapore Grand Prix,14,9,2.0,Toro Rosso
+4,Alonso,2015,Singapore Grand Prix,12,17,0.0,McLaren
+832,Sainz,2015,Japanese Grand Prix,10,10,1.0,Toro Rosso
+4,Alonso,2015,Japanese Grand Prix,12,11,0.0,McLaren
+4,Alonso,2015,Russian Grand Prix,19,11,0.0,McLaren
+833,Merhi,2015,Russian Grand Prix,18,13,0.0,Manor Marussia
+832,Sainz,2015,Russian Grand Prix,20,16,0.0,Toro Rosso
+832,Sainz,2015,United States Grand Prix,20,7,6.0,Toro Rosso
+4,Alonso,2015,United States Grand Prix,9,11,0.0,McLaren
+832,Sainz,2015,Mexican Grand Prix,11,13,0.0,Toro Rosso
+4,Alonso,2015,Mexican Grand Prix,18,20,0.0,McLaren
+4,Alonso,2015,Brazilian Grand Prix,20,15,0.0,McLaren
+832,Sainz,2015,Brazilian Grand Prix,10,19,0.0,Toro Rosso
+832,Sainz,2015,Abu Dhabi Grand Prix,10,11,0.0,Toro Rosso
+4,Alonso,2015,Abu Dhabi Grand Prix,16,17,0.0,McLaren
+833,Merhi,2015,Abu Dhabi Grand Prix,20,19,0.0,Manor Marussia
+832,Sainz,2016,Australian Grand Prix,7,9,2.0,Toro Rosso
+4,Alonso,2016,Australian Grand Prix,11,21,0.0,McLaren
+832,Sainz,2016,Bahrain Grand Prix,11,18,0.0,Toro Rosso
+832,Sainz,2016,Chinese Grand Prix,8,9,2.0,Toro Rosso
+4,Alonso,2016,Chinese Grand Prix,11,12,0.0,McLaren
+4,Alonso,2016,Russian Grand Prix,14,6,8.0,McLaren
+832,Sainz,2016,Russian Grand Prix,11,12,0.0,Toro Rosso
+832,Sainz,2016,Spanish Grand Prix,8,6,8.0,Toro Rosso
+4,Alonso,2016,Spanish Grand Prix,10,19,0.0,McLaren
+4,Alonso,2016,Monaco Grand Prix,9,5,10.0,McLaren
+832,Sainz,2016,Monaco Grand Prix,6,8,4.0,Toro Rosso
+832,Sainz,2016,Canadian Grand Prix,20,9,2.0,Toro Rosso
+4,Alonso,2016,Canadian Grand Prix,10,11,0.0,McLaren
+4,Alonso,2016,European Grand Prix,13,19,0.0,McLaren
+832,Sainz,2016,European Grand Prix,18,21,0.0,Toro Rosso
+832,Sainz,2016,Austrian Grand Prix,15,8,4.0,Toro Rosso
+4,Alonso,2016,Austrian Grand Prix,14,18,0.0,McLaren
+832,Sainz,2016,British Grand Prix,7,8,4.0,Toro Rosso
+4,Alonso,2016,British Grand Prix,9,13,0.0,McLaren
+4,Alonso,2016,Hungarian Grand Prix,7,7,6.0,McLaren
+832,Sainz,2016,Hungarian Grand Prix,6,8,4.0,Toro Rosso
+4,Alonso,2016,German Grand Prix,13,12,0.0,McLaren
+832,Sainz,2016,German Grand Prix,15,14,0.0,Toro Rosso
+4,Alonso,2016,Belgian Grand Prix,22,7,6.0,McLaren
+832,Sainz,2016,Belgian Grand Prix,14,20,0.0,Toro Rosso
+4,Alonso,2016,Italian Grand Prix,12,14,0.0,McLaren
+832,Sainz,2016,Italian Grand Prix,15,15,0.0,Toro Rosso
+4,Alonso,2016,Singapore Grand Prix,9,7,6.0,McLaren
+832,Sainz,2016,Singapore Grand Prix,6,14,0.0,Toro Rosso
+4,Alonso,2016,Malaysian Grand Prix,22,7,6.0,McLaren
+832,Sainz,2016,Malaysian Grand Prix,16,11,0.0,Toro Rosso
+4,Alonso,2016,Japanese Grand Prix,15,16,0.0,McLaren
+832,Sainz,2016,Japanese Grand Prix,14,17,0.0,Toro Rosso
+4,Alonso,2016,United States Grand Prix,12,5,10.0,McLaren
+832,Sainz,2016,United States Grand Prix,10,6,8.0,Toro Rosso
+4,Alonso,2016,Mexican Grand Prix,11,13,0.0,McLaren
+832,Sainz,2016,Mexican Grand Prix,10,16,0.0,Toro Rosso
+832,Sainz,2016,Brazilian Grand Prix,15,6,8.0,Toro Rosso
+4,Alonso,2016,Brazilian Grand Prix,10,10,1.0,McLaren
+4,Alonso,2016,Abu Dhabi Grand Prix,9,10,1.0,McLaren
+832,Sainz,2016,Abu Dhabi Grand Prix,21,18,0.0,Toro Rosso
+832,Sainz,2017,Australian Grand Prix,8,8,4.0,Toro Rosso
+4,Alonso,2017,Australian Grand Prix,12,14,0.0,McLaren
+832,Sainz,2017,Chinese Grand Prix,11,7,6.0,Toro Rosso
+4,Alonso,2017,Chinese Grand Prix,13,16,0.0,McLaren
+4,Alonso,2017,Bahrain Grand Prix,15,14,0.0,McLaren
+832,Sainz,2017,Bahrain Grand Prix,16,16,0.0,Toro Rosso
+832,Sainz,2017,Russian Grand Prix,14,10,1.0,Toro Rosso
+4,Alonso,2017,Russian Grand Prix,15,20,0.0,McLaren
+832,Sainz,2017,Spanish Grand Prix,12,7,6.0,Toro Rosso
+4,Alonso,2017,Spanish Grand Prix,7,12,0.0,McLaren
+832,Sainz,2017,Monaco Grand Prix,6,6,8.0,Toro Rosso
+4,Alonso,2017,Canadian Grand Prix,12,16,0.0,McLaren
+832,Sainz,2017,Canadian Grand Prix,13,20,0.0,Toro Rosso
+832,Sainz,2017,Azerbaijan Grand Prix,15,8,4.0,Toro Rosso
+4,Alonso,2017,Azerbaijan Grand Prix,19,9,2.0,McLaren
+832,Sainz,2017,Austrian Grand Prix,10,17,0.0,Toro Rosso
+4,Alonso,2017,Austrian Grand Prix,12,19,0.0,McLaren
+4,Alonso,2017,British Grand Prix,20,18,0.0,McLaren
+832,Sainz,2017,British Grand Prix,13,19,0.0,Toro Rosso
+4,Alonso,2017,Hungarian Grand Prix,7,6,8.0,McLaren
+832,Sainz,2017,Hungarian Grand Prix,9,7,6.0,Toro Rosso
+832,Sainz,2017,Belgian Grand Prix,13,10,1.0,Toro Rosso
+4,Alonso,2017,Belgian Grand Prix,10,18,0.0,McLaren
+832,Sainz,2017,Italian Grand Prix,15,14,0.0,Toro Rosso
+4,Alonso,2017,Italian Grand Prix,19,17,0.0,McLaren
+832,Sainz,2017,Singapore Grand Prix,10,4,12.0,Toro Rosso
+4,Alonso,2017,Singapore Grand Prix,8,17,0.0,McLaren
+4,Alonso,2017,Malaysian Grand Prix,10,11,0.0,McLaren
+832,Sainz,2017,Malaysian Grand Prix,14,19,0.0,Toro Rosso
+4,Alonso,2017,Japanese Grand Prix,20,11,0.0,McLaren
+832,Sainz,2017,Japanese Grand Prix,19,20,0.0,Toro Rosso
+832,Sainz,2017,United States Grand Prix,7,7,6.0,Renault
+4,Alonso,2017,United States Grand Prix,8,17,0.0,McLaren
+4,Alonso,2017,Mexican Grand Prix,18,10,1.0,McLaren
+832,Sainz,2017,Mexican Grand Prix,8,16,0.0,Renault
+4,Alonso,2017,Brazilian Grand Prix,6,8,4.0,McLaren
+832,Sainz,2017,Brazilian Grand Prix,8,11,0.0,Renault
+4,Alonso,2017,Abu Dhabi Grand Prix,11,9,2.0,McLaren
+832,Sainz,2017,Abu Dhabi Grand Prix,12,19,0.0,Renault
+4,Alonso,2018,Australian Grand Prix,10,5,10.0,McLaren
+832,Sainz,2018,Australian Grand Prix,9,10,1.0,Renault
+4,Alonso,2018,Bahrain Grand Prix,13,7,6.0,McLaren
+832,Sainz,2018,Bahrain Grand Prix,10,11,0.0,Renault
+4,Alonso,2018,Chinese Grand Prix,13,7,6.0,McLaren
+832,Sainz,2018,Chinese Grand Prix,9,9,2.0,Renault
+832,Sainz,2018,Azerbaijan Grand Prix,9,5,10.0,Renault
+4,Alonso,2018,Azerbaijan Grand Prix,12,7,6.0,McLaren
+832,Sainz,2018,Spanish Grand Prix,9,7,6.0,Renault
+4,Alonso,2018,Spanish Grand Prix,8,8,4.0,McLaren
+832,Sainz,2018,Monaco Grand Prix,8,10,1.0,Renault
+4,Alonso,2018,Monaco Grand Prix,7,20,0.0,McLaren
+832,Sainz,2018,Canadian Grand Prix,9,8,4.0,Renault
+4,Alonso,2018,Canadian Grand Prix,14,18,0.0,McLaren
+832,Sainz,2018,French Grand Prix,7,8,4.0,Renault
+4,Alonso,2018,French Grand Prix,16,16,0.0,McLaren
+4,Alonso,2018,Austrian Grand Prix,13,8,4.0,McLaren
+832,Sainz,2018,Austrian Grand Prix,9,12,0.0,Renault
+4,Alonso,2018,British Grand Prix,13,8,4.0,McLaren
+832,Sainz,2018,British Grand Prix,16,17,0.0,Renault
+832,Sainz,2018,German Grand Prix,8,12,0.0,Renault
+4,Alonso,2018,German Grand Prix,11,16,0.0,McLaren
+4,Alonso,2018,Hungarian Grand Prix,11,8,4.0,McLaren
+832,Sainz,2018,Hungarian Grand Prix,5,9,2.0,Renault
+832,Sainz,2018,Belgian Grand Prix,14,11,0.0,Renault
+4,Alonso,2018,Belgian Grand Prix,15,19,0.0,McLaren
+832,Sainz,2018,Italian Grand Prix,7,8,4.0,Renault
+4,Alonso,2018,Italian Grand Prix,13,18,0.0,McLaren
+4,Alonso,2018,Singapore Grand Prix,11,7,6.0,McLaren
+832,Sainz,2018,Singapore Grand Prix,12,8,4.0,Renault
+4,Alonso,2018,Russian Grand Prix,16,14,0.0,McLaren
+832,Sainz,2018,Russian Grand Prix,11,17,0.0,Renault
+832,Sainz,2018,Japanese Grand Prix,13,10,1.0,Renault
+4,Alonso,2018,Japanese Grand Prix,18,14,0.0,McLaren
+832,Sainz,2018,United States Grand Prix,11,7,6.0,Renault
+4,Alonso,2018,United States Grand Prix,13,18,0.0,McLaren
+832,Sainz,2018,Mexican Grand Prix,8,19,0.0,Renault
+4,Alonso,2018,Mexican Grand Prix,12,20,0.0,McLaren
+832,Sainz,2018,Brazilian Grand Prix,15,12,0.0,Renault
+4,Alonso,2018,Brazilian Grand Prix,17,17,0.0,McLaren
+832,Sainz,2018,Abu Dhabi Grand Prix,11,6,8.0,Renault
+4,Alonso,2018,Abu Dhabi Grand Prix,15,11,0.0,McLaren
+832,Sainz,2019,Australian Grand Prix,18,20,0.0,McLaren
+832,Sainz,2019,Bahrain Grand Prix,7,19,0.0,McLaren
+832,Sainz,2019,Chinese Grand Prix,14,14,0.0,McLaren
+832,Sainz,2019,Azerbaijan Grand Prix,9,7,6.0,McLaren
+832,Sainz,2019,Spanish Grand Prix,12,8,4.0,McLaren
+832,Sainz,2019,Monaco Grand Prix,9,6,8.0,McLaren
+832,Sainz,2019,Canadian Grand Prix,11,11,0.0,McLaren
+832,Sainz,2019,French Grand Prix,6,6,8.0,McLaren
+832,Sainz,2019,Austrian Grand Prix,19,8,4.0,McLaren
+832,Sainz,2019,British Grand Prix,13,6,8.0,McLaren
+832,Sainz,2019,German Grand Prix,7,5,10.0,McLaren
+832,Sainz,2019,Hungarian Grand Prix,8,5,10.0,McLaren
+832,Sainz,2019,Belgian Grand Prix,15,19,0.0,McLaren
+832,Sainz,2019,Italian Grand Prix,7,20,0.0,McLaren
+832,Sainz,2019,Singapore Grand Prix,7,12,0.0,McLaren
+832,Sainz,2019,Russian Grand Prix,5,6,8.0,McLaren
+832,Sainz,2019,Japanese Grand Prix,7,5,10.0,McLaren
+832,Sainz,2019,Mexican Grand Prix,7,13,0.0,McLaren
+832,Sainz,2019,United States Grand Prix,7,8,4.0,McLaren
+832,Sainz,2019,Brazilian Grand Prix,20,3,15.0,McLaren
+832,Sainz,2019,Abu Dhabi Grand Prix,8,10,1.0,McLaren
+832,Sainz,2020,Austrian Grand Prix,8,5,10.0,McLaren
+832,Sainz,2020,Styrian Grand Prix,3,9,3.0,McLaren
+832,Sainz,2020,Hungarian Grand Prix,9,9,2.0,McLaren
+832,Sainz,2020,British Grand Prix,7,13,0.0,McLaren
+832,Sainz,2020,70th Anniversary Grand Prix,12,13,0.0,McLaren
+832,Sainz,2020,Spanish Grand Prix,7,6,8.0,McLaren
+832,Sainz,2020,Belgian Grand Prix,7,20,0.0,McLaren
+832,Sainz,2020,Italian Grand Prix,3,2,18.0,McLaren
+832,Sainz,2020,Tuscan Grand Prix,9,18,0.0,McLaren
+832,Sainz,2020,Russian Grand Prix,6,19,0.0,McLaren
+832,Sainz,2020,Eifel Grand Prix,10,5,10.0,McLaren
+832,Sainz,2020,Portuguese Grand Prix,7,6,8.0,McLaren
+832,Sainz,2020,Emilia Romagna Grand Prix,10,7,6.0,McLaren
+832,Sainz,2020,Turkish Grand Prix,15,5,10.0,McLaren
+832,Sainz,2020,Bahrain Grand Prix,15,5,10.0,McLaren
+832,Sainz,2020,Sakhir Grand Prix,8,4,12.0,McLaren
+832,Sainz,2020,Abu Dhabi Grand Prix,6,6,8.0,McLaren
+832,Sainz,2021,Bahrain Grand Prix,8,8,4.0,Ferrari
+4,Alonso,2021,Bahrain Grand Prix,9,19,0.0,Alpine F1 Team
+832,Sainz,2021,Emilia Romagna Grand Prix,11,5,10.0,Ferrari
+4,Alonso,2021,Emilia Romagna Grand Prix,15,10,1.0,Alpine F1 Team
+4,Alonso,2021,Portuguese Grand Prix,13,8,4.0,Alpine F1 Team
+832,Sainz,2021,Portuguese Grand Prix,5,11,0.0,Ferrari
+832,Sainz,2021,Spanish Grand Prix,6,7,6.0,Ferrari
+4,Alonso,2021,Spanish Grand Prix,10,17,0.0,Alpine F1 Team
+832,Sainz,2021,Monaco Grand Prix,4,2,18.0,Ferrari
+4,Alonso,2021,Monaco Grand Prix,17,13,0.0,Alpine F1 Team
+4,Alonso,2021,Azerbaijan Grand Prix,8,6,8.0,Alpine F1 Team
+832,Sainz,2021,Azerbaijan Grand Prix,5,8,4.0,Ferrari
+4,Alonso,2021,French Grand Prix,9,8,4.0,Alpine F1 Team
+832,Sainz,2021,French Grand Prix,5,11,0.0,Ferrari
+832,Sainz,2021,Styrian Grand Prix,12,6,8.0,Ferrari
+4,Alonso,2021,Styrian Grand Prix,8,9,2.0,Alpine F1 Team
+832,Sainz,2021,Austrian Grand Prix,10,5,10.0,Ferrari
+4,Alonso,2021,Austrian Grand Prix,14,10,1.0,Alpine F1 Team
+832,Sainz,2021,British Grand Prix,10,6,8.0,Ferrari
+4,Alonso,2021,British Grand Prix,7,7,6.0,Alpine F1 Team
+832,Sainz,2021,Hungarian Grand Prix,15,3,15.0,Ferrari
+4,Alonso,2021,Hungarian Grand Prix,9,4,12.0,Alpine F1 Team
+832,Sainz,2021,Belgian Grand Prix,11,10,0.5,Ferrari
+4,Alonso,2021,Belgian Grand Prix,12,11,0.0,Alpine F1 Team
+4,Alonso,2021,Dutch Grand Prix,9,6,8.0,Alpine F1 Team
+832,Sainz,2021,Dutch Grand Prix,6,7,6.0,Ferrari
+832,Sainz,2021,Italian Grand Prix,6,6,8.0,Ferrari
+4,Alonso,2021,Italian Grand Prix,10,8,4.0,Alpine F1 Team
+832,Sainz,2021,Russian Grand Prix,2,3,15.0,Ferrari
+4,Alonso,2021,Russian Grand Prix,6,6,8.0,Alpine F1 Team
+832,Sainz,2021,Turkish Grand Prix,19,8,4.0,Ferrari
+4,Alonso,2021,Turkish Grand Prix,5,16,0.0,Alpine F1 Team
+832,Sainz,2021,United States Grand Prix,5,7,6.0,Ferrari
+4,Alonso,2021,United States Grand Prix,19,18,0.0,Alpine F1 Team
+832,Sainz,2021,Mexico City Grand Prix,6,6,8.0,Ferrari
+4,Alonso,2021,Mexico City Grand Prix,12,9,2.0,Alpine F1 Team
+832,Sainz,2021,São Paulo Grand Prix,3,6,8.0,Ferrari
+4,Alonso,2021,São Paulo Grand Prix,12,9,2.0,Alpine F1 Team
+4,Alonso,2021,Qatar Grand Prix,3,3,15.0,Alpine F1 Team
+832,Sainz,2021,Qatar Grand Prix,5,7,6.0,Ferrari
+832,Sainz,2021,Saudi Arabian Grand Prix,15,8,4.0,Ferrari
+4,Alonso,2021,Saudi Arabian Grand Prix,13,13,0.0,Alpine F1 Team
+832,Sainz,2021,Abu Dhabi Grand Prix,5,3,15.0,Ferrari
+4,Alonso,2021,Abu Dhabi Grand Prix,11,8,4.0,Alpine F1 Team
+832,Sainz,2022,Bahrain Grand Prix,3,2,18.0,Ferrari
+4,Alonso,2022,Bahrain Grand Prix,8,9,2.0,Alpine F1 Team
+832,Sainz,2022,Saudi Arabian Grand Prix,3,3,15.0,Ferrari
+4,Alonso,2022,Saudi Arabian Grand Prix,7,16,0.0,Alpine F1 Team
+4,Alonso,2022,Australian Grand Prix,10,17,0.0,Alpine F1 Team
+832,Sainz,2022,Australian Grand Prix,9,20,0.0,Ferrari
+4,Alonso,2022,Emilia Romagna Grand Prix,9,19,0.0,Alpine F1 Team
+832,Sainz,2022,Emilia Romagna Grand Prix,4,20,0.0,Ferrari
+832,Sainz,2022,Miami Grand Prix,2,3,15.0,Ferrari
+4,Alonso,2022,Miami Grand Prix,11,11,0.0,Alpine F1 Team
+832,Sainz,2022,Spanish Grand Prix,3,4,12.0,Ferrari
+4,Alonso,2022,Spanish Grand Prix,20,9,2.0,Alpine F1 Team
+832,Sainz,2022,Monaco Grand Prix,2,2,18.0,Ferrari
+4,Alonso,2022,Monaco Grand Prix,7,7,6.0,Alpine F1 Team
+4,Alonso,2022,Azerbaijan Grand Prix,10,7,6.0,Alpine F1 Team
+832,Sainz,2022,Azerbaijan Grand Prix,4,20,0.0,Ferrari
+832,Sainz,2022,Canadian Grand Prix,3,2,19.0,Ferrari
+4,Alonso,2022,Canadian Grand Prix,2,9,2.0,Alpine F1 Team
+832,Sainz,2022,British Grand Prix,1,1,25.0,Ferrari
+4,Alonso,2022,British Grand Prix,7,5,10.0,Alpine F1 Team
+4,Alonso,2022,Austrian Grand Prix,19,10,1.0,Alpine F1 Team
+832,Sainz,2022,Austrian Grand Prix,3,18,0.0,Ferrari
+832,Sainz,2022,French Grand Prix,19,5,11.0,Ferrari
+4,Alonso,2022,French Grand Prix,7,6,8.0,Alpine F1 Team
+832,Sainz,2022,Hungarian Grand Prix,2,4,12.0,Ferrari
+4,Alonso,2022,Hungarian Grand Prix,6,8,4.0,Alpine F1 Team
+832,Sainz,2022,Belgian Grand Prix,1,3,15.0,Ferrari
+4,Alonso,2022,Belgian Grand Prix,3,5,10.0,Alpine F1 Team
+4,Alonso,2022,Dutch Grand Prix,13,6,8.0,Alpine F1 Team
+832,Sainz,2022,Dutch Grand Prix,3,8,4.0,Ferrari
+832,Sainz,2022,Italian Grand Prix,18,4,12.0,Ferrari
+4,Alonso,2022,Italian Grand Prix,6,19,0.0,Alpine F1 Team
+832,Sainz,2022,Singapore Grand Prix,4,3,15.0,Ferrari
+4,Alonso,2022,Singapore Grand Prix,5,18,0.0,Alpine F1 Team
+4,Alonso,2022,Japanese Grand Prix,7,7,6.0,Alpine F1 Team
+832,Sainz,2022,Japanese Grand Prix,3,19,0.0,Ferrari
+4,Alonso,2022,United States Grand Prix,14,7,6.0,Alpine F1 Team
+832,Sainz,2022,United States Grand Prix,1,20,0.0,Ferrari
+832,Sainz,2022,Mexico City Grand Prix,5,5,10.0,Ferrari
+4,Alonso,2022,Mexico City Grand Prix,9,19,0.0,Alpine F1 Team
+832,Sainz,2022,São Paulo Grand Prix,7,3,15.0,Ferrari
+4,Alonso,2022,São Paulo Grand Prix,17,5,10.0,Alpine F1 Team
+832,Sainz,2022,Abu Dhabi Grand Prix,4,4,12.0,Ferrari
+4,Alonso,2022,Abu Dhabi Grand Prix,10,20,0.0,Alpine F1 Team
+4,Alonso,2023,Bahrain Grand Prix,5,3,15.0,Aston Martin
+832,Sainz,2023,Bahrain Grand Prix,4,4,12.0,Ferrari
+4,Alonso,2023,Saudi Arabian Grand Prix,2,3,15.0,Aston Martin
+832,Sainz,2023,Saudi Arabian Grand Prix,4,6,8.0,Ferrari
+4,Alonso,2023,Australian Grand Prix,4,3,15.0,Aston Martin
+832,Sainz,2023,Australian Grand Prix,5,12,0.0,Ferrari
+4,Alonso,2023,Azerbaijan Grand Prix,6,4,12.0,Aston Martin
+832,Sainz,2023,Azerbaijan Grand Prix,4,5,10.0,Ferrari
+4,Alonso,2023,Miami Grand Prix,2,3,15.0,Aston Martin
+832,Sainz,2023,Miami Grand Prix,3,5,10.0,Ferrari
+4,Alonso,2023,Monaco Grand Prix,2,2,18.0,Aston Martin
+832,Sainz,2023,Monaco Grand Prix,4,8,4.0,Ferrari
+832,Sainz,2023,Spanish Grand Prix,2,5,10.0,Ferrari
+4,Alonso,2023,Spanish Grand Prix,8,7,6.0,Aston Martin
+4,Alonso,2023,Canadian Grand Prix,2,2,18.0,Aston Martin
+832,Sainz,2023,Canadian Grand Prix,11,5,10.0,Ferrari
+4,Alonso,2023,Austrian Grand Prix,7,5,10.0,Aston Martin
+832,Sainz,2023,Austrian Grand Prix,3,6,8.0,Ferrari
+4,Alonso,2023,British Grand Prix,9,7,6.0,Aston Martin
+832,Sainz,2023,British Grand Prix,5,10,1.0,Ferrari
+832,Sainz,2023,Hungarian Grand Prix,11,8,4.0,Ferrari
+4,Alonso,2023,Hungarian Grand Prix,8,9,2.0,Aston Martin
+4,Alonso,2023,Belgian Grand Prix,9,5,10.0,Aston Martin
+832,Sainz,2023,Belgian Grand Prix,4,19,0.0,Ferrari
+4,Alonso,2023,Dutch Grand Prix,5,2,19.0,Aston Martin
+832,Sainz,2023,Dutch Grand Prix,6,5,10.0,Ferrari
+832,Sainz,2023,Italian Grand Prix,1,3,15.0,Ferrari
+4,Alonso,2023,Italian Grand Prix,10,9,2.0,Aston Martin
+832,Sainz,2023,Singapore Grand Prix,1,1,25.0,Ferrari
+4,Alonso,2023,Singapore Grand Prix,7,15,0.0,Aston Martin
+832,Sainz,2023,Japanese Grand Prix,6,6,8.0,Ferrari
+4,Alonso,2023,Japanese Grand Prix,10,8,4.0,Aston Martin
+4,Alonso,2023,Qatar Grand Prix,4,6,8.0,Aston Martin
+832,Sainz,2023,Qatar Grand Prix,12,20,0.0,Ferrari
+832,Sainz,2023,United States Grand Prix,4,3,15.0,Ferrari
+4,Alonso,2023,United States Grand Prix,0,16,0.0,Aston Martin
+832,Sainz,2023,Mexico City Grand Prix,2,4,12.0,Ferrari
+4,Alonso,2023,Mexico City Grand Prix,13,18,0.0,Aston Martin
+4,Alonso,2023,São Paulo Grand Prix,4,3,15.0,Aston Martin
+832,Sainz,2023,São Paulo Grand Prix,7,6,8.0,Ferrari
+832,Sainz,2023,Las Vegas Grand Prix,12,6,8.0,Ferrari
+4,Alonso,2023,Las Vegas Grand Prix,9,9,2.0,Aston Martin
+4,Alonso,2023,Abu Dhabi Grand Prix,7,7,6.0,Aston Martin
+832,Sainz,2023,Abu Dhabi Grand Prix,16,18,0.0,Ferrari
+832,Sainz,2024,Bahrain Grand Prix,4,3,15.0,Ferrari
+4,Alonso,2024,Bahrain Grand Prix,6,9,2.0,Aston Martin
+4,Alonso,2024,Saudi Arabian Grand Prix,4,5,10.0,Aston Martin
+832,Sainz,2024,Australian Grand Prix,2,1,25.0,Ferrari
+4,Alonso,2024,Australian Grand Prix,10,8,4.0,Aston Martin
+832,Sainz,2024,Japanese Grand Prix,4,3,15.0,Ferrari
+4,Alonso,2024,Japanese Grand Prix,5,6,8.0,Aston Martin
+832,Sainz,2024,Chinese Grand Prix,7,5,10.0,Ferrari
+4,Alonso,2024,Chinese Grand Prix,3,7,7.0,Aston Martin
+832,Sainz,2024,Miami Grand Prix,3,5,10.0,Ferrari
+4,Alonso,2024,Miami Grand Prix,15,9,2.0,Aston Martin
+832,Sainz,2024,Emilia Romagna Grand Prix,4,5,10.0,Ferrari
+4,Alonso,2024,Emilia Romagna Grand Prix,20,19,0.0,Aston Martin
+832,Sainz,2024,Monaco Grand Prix,3,3,15.0,Ferrari
+4,Alonso,2024,Monaco Grand Prix,14,11,0.0,Aston Martin
+4,Alonso,2024,Canadian Grand Prix,6,6,8.0,Aston Martin
+832,Sainz,2024,Canadian Grand Prix,12,16,0.0,Ferrari
+832,Sainz,2024,Spanish Grand Prix,6,6,8.0,Ferrari
+4,Alonso,2024,Spanish Grand Prix,10,12,0.0,Aston Martin
+832,Sainz,2024,Austrian Grand Prix,4,3,15.0,Ferrari
+4,Alonso,2024,Austrian Grand Prix,15,18,0.0,Aston Martin
+832,Sainz,2024,British Grand Prix,7,5,11.0,Ferrari
+4,Alonso,2024,British Grand Prix,10,8,4.0,Aston Martin
+832,Sainz,2024,Hungarian Grand Prix,4,6,8.0,Ferrari
+4,Alonso,2024,Hungarian Grand Prix,7,11,0.0,Aston Martin
+832,Sainz,2024,Belgian Grand Prix,7,6,8.0,Ferrari
+4,Alonso,2024,Belgian Grand Prix,8,8,4.0,Aston Martin
+832,Sainz,2024,Dutch Grand Prix,10,5,10.0,Ferrari
+4,Alonso,2024,Dutch Grand Prix,7,10,1.0,Aston Martin
+832,Sainz,2024,Italian Grand Prix,5,4,12.0,Ferrari
+4,Alonso,2024,Italian Grand Prix,11,11,0.0,Aston Martin
+4,Alonso,2024,Azerbaijan Grand Prix,7,6,8.0,Aston Martin
+832,Sainz,2024,Azerbaijan Grand Prix,3,18,0.0,Ferrari
+832,Sainz,2024,Singapore Grand Prix,10,7,6.0,Ferrari
+4,Alonso,2024,Singapore Grand Prix,7,8,4.0,Aston Martin
+832,Sainz,2024,United States Grand Prix,3,2,18.0,Ferrari
+4,Alonso,2024,United States Grand Prix,7,13,0.0,Aston Martin
+832,Sainz,2024,Mexico City Grand Prix,1,1,25.0,Ferrari
+4,Alonso,2024,Mexico City Grand Prix,13,18,0.0,Aston Martin
+4,Alonso,2024,São Paulo Grand Prix,9,14,0.0,Aston Martin
+832,Sainz,2024,São Paulo Grand Prix,0,16,0.0,Ferrari
+832,Sainz,2024,Las Vegas Grand Prix,2,3,15.0,Ferrari
+4,Alonso,2024,Las Vegas Grand Prix,16,11,0.0,Aston Martin
+832,Sainz,2024,Qatar Grand Prix,7,6,8.0,Ferrari
+4,Alonso,2024,Qatar Grand Prix,8,7,6.0,Aston Martin
+832,Sainz,2024,Abu Dhabi Grand Prix,3,2,18.0,Ferrari
+4,Alonso,2024,Abu Dhabi Grand Prix,8,9,2.0,Aston Martin
