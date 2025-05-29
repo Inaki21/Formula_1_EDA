@@ -342,9 +342,9 @@ puntos_por_piloto = spanish_results_df.groupby(['Piloto_ID', 'Piloto'])['Puntos'
 # Paso 8: Unimos las tablas de número de carreras y puntos totales para ver la relación
 # Usamos 'Piloto_ID' y 'Piloto' como llaves
 resumen_pilotos = pd.merge(carreras_por_piloto, puntos_por_piloto, on=['Piloto_ID', 'Piloto'])
-
-resumen_pilotos = pd.read_csv("../Datos/Datos_csv/spanish_drivers_carreras_puntos.csv")
-
+############NO ES READ, ES GUARDAR , POR ESO NO LO CREABA ANTES !!!
+#resumen_pilotos = pd.read_csv("../Datos/Datos_csv/spanish_drivers_carreras_puntos.csv")
+#################################################################################################################
 ##########################GRAFICA 9
 # Creamos un DataFrame auxiliar que combina el nombre del piloto y sus puntos totales para la leyenda
 resumen_pilotos['Piloto_Leyenda'] = resumen_pilotos.apply(
