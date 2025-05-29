@@ -8,7 +8,7 @@ from math import pi
 #%matplotlib inline
 import os
 os.makedirs("../img/Graficas_generadas/", exist_ok=True)
-os.makedirs("..Datos/Datos_csv_creados/", exist_ok=True)
+os.makedirs("../Datos/Datos_csv_creados/", exist_ok=True)
 
 drivers_df = pd.read_csv('../Datos/Datos_csv/drivers.csv')
 races_df = pd.read_csv('../Datos/Datos_csv/races.csv')
@@ -343,7 +343,7 @@ puntos_por_piloto = spanish_results_df.groupby(['Piloto_ID', 'Piloto'])['Puntos'
 # Usamos 'Piloto_ID' y 'Piloto' como llaves
 resumen_pilotos = pd.merge(carreras_por_piloto, puntos_por_piloto, on=['Piloto_ID', 'Piloto'])
 
-resumen_pilotos = pd.read_csv("../Datos/Datos_csv_creados/spanish_drivers_carreras_puntos.csv")
+resumen_pilotos = pd.read_csv("../Datos/Datos_csv/spanish_drivers_carreras_puntos.csv")
 
 ##########################GRAFICA 9
 # Creamos un DataFrame auxiliar que combina el nombre del piloto y sus puntos totales para la leyenda
